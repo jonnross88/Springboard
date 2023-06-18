@@ -3,11 +3,11 @@ pandas
 matplotlib
 numpy
 scipy
-os
-dotenv
+
+python-dotenv
 requests
-json
-ydata_profiling
+
+ydata-profiling
 Ipython
 ipykernel
 jupyter
@@ -15,6 +15,9 @@ colorcet
 plotly
 bokeh
 holoviews
+panel
 hvplot
 seaborn
 pingouin
+scikit-learn
+statsmodels

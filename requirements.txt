@@ -21,3 +21,4 @@ seaborn
 pingouin
 scikit-learn
 statsmodels
+openpyxl

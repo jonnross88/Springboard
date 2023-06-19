@@ -22,3 +22,5 @@ pingouin
 scikit-learn
 statsmodels
 openpyxl
+pydotplus
+graphviz

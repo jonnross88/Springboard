@@ -24,3 +24,4 @@ statsmodels
 openpyxl
 pydotplus
 graphviz
+google-cloud-translate

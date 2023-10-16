@@ -1,12 +1,12 @@
 import asyncio
-from collections.abc import MutableSequence
+from collections.abc import MutableSequence, Iterable
 
 # Imports the Google Cloud Translation library
 from google.cloud import translate
 
 
 def translate_list(
-    list_of_strings: MutableSequence[str],
+    list_of_strings: Iterable[str],
     project_id: str = "mrprimetranslator",
     source_lang: str = "de",
     target_lang: str = "en-US",

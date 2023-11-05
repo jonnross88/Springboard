@@ -34,3 +34,5 @@ selenium
 networkx
 nxviz
 scrapy
+pyLDAvis
+gensim

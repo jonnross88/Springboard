@@ -1,4 +1,5 @@
 from collections.abc import Iterable
+
 # import asyncio
 
 # Imports the Google Cloud Translation library
@@ -11,6 +12,8 @@ def translate_list(
     source_lang: str = "de",
     target_lang: str = "en-US",
 ) -> translate.TranslateTextResponse:
+    """Translates a list, or another interable, of strings using Cloud Translation API.
+    Returns a TranslateTextResponse object."""
     client = translate.TranslationServiceClient()
     location = "global"
     parent = f"projects/{project_id}/locations/{location}"
@@ -29,7 +32,7 @@ def translate_list(
 def translation_response_to_dict(
     list_of_strings: Iterable[str], response: translate.TranslateTextResponse
 ) -> dict:
-    """Converts a TranslateTextResponse object to a dictionary 
+    """Converts a TranslateTextResponse object to a dictionary
     with the original text as key and the translated text as value."""
     trans_dict = {}
     trans_dict = {
@@ -45,9 +48,10 @@ def translate_list_to_dict(
     project_id: str = "mrprimetranslator",
     source_lang: str = "de",
     target_lang: str = "en-US",
-) -> dict:
+) -> dict[str, str]:
     """Translates a list of strings to a dictionary with the original text as key and the translated text as value."""
     response = translate_list(list_of_strings, project_id, source_lang, target_lang)
+    # print(response)
     return translation_response_to_dict(list_of_strings, response)
 
 
@@ -97,4 +101,4 @@ def translate_list_to_dict(
 
 
 # translate_text('Afghanischer Windhund', 'mrprimetranslator')
-# translate_list(["Schäferhund", "Dackel", "Rottweiler", "Afghanischer Windhund"])
+translate_list_to_dict(["Schäferhund", "Dackel", "Rottweiler", "Afghanischer Windhund"])

@@ -1,281 +1,282 @@
-breed_group,breed,links,year
-herding group,australian cattle dog,https://www.akc.org/dog-breeds/australian-cattle-dog/,1980.0
-herding group,australian shepherd,https://www.akc.org/dog-breeds/australian-shepherd/,1991.0
-herding group,bearded collie,https://www.akc.org/dog-breeds/bearded-collie/,1976.0
-herding group,beauceron,https://www.akc.org/dog-breeds/beauceron/,2007.0
-herding group,belgian laekenois,https://www.akc.org/dog-breeds/belgian-laekenois/,2020.0
-herding group,belgian malinois,https://www.akc.org/dog-breeds/belgian-malinois/,1959.0
-herding group,belgian sheepdog,https://www.akc.org/dog-breeds/belgian-sheepdog/,1912.0
-herding group,belgian tervuren,https://www.akc.org/dog-breeds/belgian-tervuren/,1959.0
-herding group,bergamasco,https://www.akc.org/dog-breeds/bergamasco-sheepdog/,2015.0
-herding group,berger picard,https://www.akc.org/dog-breeds/berger-picard/,2015.0
-herding group,border collie,https://www.akc.org/dog-breeds/border-collie/,1995.0
-herding group,bouvier des flandres,https://www.akc.org/dog-breeds/bouvier-des-flandres/,1931.0
-herding group,briard,https://www.akc.org/dog-breeds/briard/,1928.0
-herding group,canaan dog,https://www.akc.org/dog-breeds/canaan-dog/,1997.0
-herding group,cardigan welsh corgi,https://www.akc.org/dog-breeds/cardigan-welsh-corgi/,1935.0
-herding group,collie,https://www.akc.org/dog-breeds/collie/,1885.0
-herding group,entlebucher mountain dog,https://www.akc.org/dog-breeds/entlebucher-mountain-dog/,2011.0
-herding group,finnish lapphund,https://www.akc.org/dog-breeds/finnish-lapphund/,2011.0
-herding group,german shepherd dog,https://www.akc.org/dog-breeds/german-shepherd-dog/,1908.0
-herding group,icelandic sheepdog,https://www.akc.org/dog-breeds/icelandic-sheepdog/,2010.0
-herding group,lancashire heeler,https://www.akc.org/dog-breeds/lancashire-heeler/,1885.0
-herding group,miniature american shepherd,https://www.akc.org/dog-breeds/miniature-american-shepherd/,2015.0
-herding group,mudi,https://www.akc.org/dog-breeds/mudi/,2022.0
-herding group,norwegian buhund,https://www.akc.org/dog-breeds/norwegian-buhund/,2009.0
-herding group,old english sheepdog,https://www.akc.org/dog-breeds/old-english-sheepdog/,1888.0
-herding group,pembroke welsh corgi,https://www.akc.org/dog-breeds/pembroke-welsh-corgi/,1934.0
-herding group,polish lowland sheepdog,https://www.akc.org/dog-breeds/polish-lowland-sheepdog/,2001.0
-herding group,puli,https://www.akc.org/dog-breeds/puli/,1936.0
-herding group,pumi,https://www.akc.org/dog-breeds/pumi/,2016.0
-herding group,pyrenean shepherd,https://www.akc.org/dog-breeds/pyrenean-shepherd/,2009.0
-herding group,shetland sheepdog,https://www.akc.org/dog-breeds/shetland-sheepdog/,1911.0
-herding group,spanish water dog,https://www.akc.org/dog-breeds/spanish-water-dog/,2015.0
-herding group,swedish vallhund,https://www.akc.org/dog-breeds/swedish-vallhund/,2007.0
-hound group,afghan hound,https://www.akc.org/dog-breeds/afghan-hound/,1926.0
-hound group,american english coonhound,https://www.akc.org/dog-breeds/american-english-coonhound/,2011.0
-hound group,american foxhound,https://www.akc.org/dog-breeds/american-foxhound/,1886.0
-hound group,azawakh,https://www.akc.org/dog-breeds/azawakh/,2019.0
-hound group,basenji,https://www.akc.org/dog-breeds/basenji/,1944.0
-hound group,basset hound,https://www.akc.org/dog-breeds/basset-hound/,1885.0
-hound group,beagle,https://www.akc.org/dog-breeds/beagle/,1885.0
-hound group,black and tan coonhound,https://www.akc.org/dog-breeds/black-and-tan-coonhound/,1945.0
-hound group,bloodhound,https://www.akc.org/dog-breeds/bloodhound/,1885.0
-hound group,bluetick coonhound,https://www.akc.org/dog-breeds/bluetick-coonhound/,2009.0
-hound group,borzoi,https://www.akc.org/dog-breeds/borzoi/,1891.0
-hound group,cirneco dell’etna,https://www.akc.org/dog-breeds/cirneco-delletna/,2015.0
-hound group,dachshund,https://www.akc.org/dog-breeds/dachshund/,1885.0
-hound group,english foxhound,https://www.akc.org/dog-breeds/english-foxhound/,1909.0
-hound group,grand basset griffon vendeen,https://www.akc.org/dog-breeds/grand-basset-griffon-vendeen/,2018.0
-hound group,greyhound,https://www.akc.org/dog-breeds/greyhound/,1885.0
-hound group,harrier,https://www.akc.org/dog-breeds/harrier/,1885.0
-hound group,ibizan hound,https://www.akc.org/dog-breeds/ibizan-hound/,1978.0
-hound group,irish wolfhound,https://www.akc.org/dog-breeds/irish-wolfhound/,1897.0
-hound group,norwegian elkhound,https://www.akc.org/dog-breeds/norwegian-elkhound/,1913.0
-hound group,otterhound,https://www.akc.org/dog-breeds/otterhound/,1909.0
-hound group,petit basset griffon vendeen,https://www.akc.org/dog-breeds/petit-basset-griffon-vendeen/,1990.0
-hound group,pharaoh hound,https://www.akc.org/dog-breeds/pharaoh-hound/,1983.0
-hound group,plott hound,https://www.akc.org/dog-breeds/plott/,2006.0
-hound group,portuguese podengo pequeno,https://www.akc.org/dog-breeds/portuguese-podengo-pequeno/,2013.0
-hound group,redbone coonhound,https://www.akc.org/dog-breeds/redbone-coonhound/,2009.0
-hound group,rhodesian ridgeback,https://www.akc.org/dog-breeds/rhodesian-ridgeback/,1955.0
-hound group,saluki,https://www.akc.org/dog-breeds/saluki/,1929.0
-hound group,scottish deerhound,https://www.akc.org/dog-breeds/scottish-deerhound/,1886.0
-hound group,sloughi,https://www.akc.org/dog-breeds/sloughi/,2016.0
-hound group,treeing walker coonhound,https://www.akc.org/dog-breeds/treeing-walker-coonhound/,2012.0
-hound group,whippet,https://www.akc.org/dog-breeds/whippet/,1888.0
-toy group,affenpinscher,https://www.akc.org/dog-breeds/affenpinscher/,1936.0
-toy group,biewer terrier,https://www.akc.org/dog-breeds/biewer-terrier/,2021.0
-toy group,brussels griffon,https://www.akc.org/dog-breeds/brussels-griffon/,1910.0
-toy group,cavalier king charles spaniel,https://www.akc.org/dog-breeds/cavalier-king-charles-spaniel/,1995.0
-toy group,chihuahua,https://www.akc.org/dog-breeds/chihuahua/,1904.0
-toy group,chinese crested,https://www.akc.org/dog-breeds/chinese-crested/,1991.0
-toy group,english toy spaniel,https://www.akc.org/dog-breeds/english-toy-spaniel/,1886.0
-toy group,havanese,https://www.akc.org/dog-breeds/havanese/,1996.0
-toy group,italian greyhound,https://www.akc.org/dog-breeds/italian-greyhound/,1886.0
-toy group,japanese chin,https://www.akc.org/dog-breeds/japanese-chin/,1888.0
-toy group,maltese,https://www.akc.org/dog-breeds/maltese/,1888.0
-toy group,manchester terrier,https://www.akc.org/dog-breeds/manchester-terrier/,1886.0
-toy group,miniature pinscher,https://www.akc.org/dog-breeds/miniature-pinscher/,1925.0
-toy group,papillon,https://www.akc.org/dog-breeds/papillon/,1915.0
-toy group,pekingese,https://www.akc.org/dog-breeds/pekingese/,1906.0
-toy group,pomeranian,https://www.akc.org/dog-breeds/pomeranian/,1888.0
-toy group,poodle (toy),https://www.akc.org/dog-breeds/poodle/,1887.0
-toy group,pug,https://www.akc.org/dog-breeds/pug/,1885.0
-toy group,russian toy,https://www.akc.org/dog-breeds/russian-toy/,2022.0
-toy group,shih tzu,https://www.akc.org/dog-breeds/shih-tzu/,1969.0
-toy group,silky terrier,https://www.akc.org/dog-breeds/silky-terrier/,1959.0
-toy group,toy fox terrier,https://www.akc.org/dog-breeds/toy-fox-terrier/,2003.0
-toy group,yorkshire terrier,https://www.akc.org/dog-breeds/yorkshire-terrier/,1885.0
-non-sporting group,american eskimo dog,https://www.akc.org/dog-breeds/american-eskimo-dog/,1994.0
-non-sporting group,bichon frise,https://www.akc.org/dog-breeds/bichon-frise/,1972.0
-non-sporting group,boston terrier,https://www.akc.org/dog-breeds/boston-terrier/,1893.0
-non-sporting group,bulldog,https://www.akc.org/dog-breeds/bulldog/,1886.0
-non-sporting group,chinese shar-pei,https://www.akc.org/dog-breeds/chinese-shar-pei/,1992.0
-non-sporting group,chow chow,https://www.akc.org/dog-breeds/chow-chow/,1903.0
-non-sporting group,coton de tulear,https://www.akc.org/dog-breeds/coton-de-tulear/,2014.0
-non-sporting group,dalmatian,https://www.akc.org/dog-breeds/dalmatian/,1888.0
-non-sporting group,finnish spitz,https://www.akc.org/dog-breeds/finnish-spitz/,1991.0
-non-sporting group,french bulldog,https://www.akc.org/dog-breeds/french-bulldog/,1898.0
-non-sporting group,keeshond,https://www.akc.org/dog-breeds/keeshond/,1930.0
-non-sporting group,lhasa apso,https://www.akc.org/dog-breeds/lhasa-apso/,1935.0
-non-sporting group,lowchen,https://www.akc.org/dog-breeds/lowchen/,1996.0
-non-sporting group,norwegian lundhund,https://www.akc.org/dog-breeds/norwegian-lundehund/,2011.0
-non-sporting group,poodle,https://www.akc.org/dog-breeds/poodle/,1887.0
-non-sporting group,schipperke,https://www.akc.org/dog-breeds/schipperke/,1904.0
-non-sporting group,shiba inu,https://www.akc.org/dog-breeds/shiba-inu/,1992.0
-non-sporting group,tibetan spaniel,https://www.akc.org/dog-breeds/tibetan-spaniel/,1983.0
-non-sporting group,tibetan terrier,https://www.akc.org/dog-breeds/tibetan-terrier/,1973.0
-non-sporting group,xoloitzcuintli,https://www.akc.org/dog-breeds/xoloitzcuintli/,2011.0
-sporting group,american water spaniel,https://www.akc.org/dog-breeds/american-water-spaniel/,1940.0
-sporting group,barbet,https://www.akc.org/dog-breeds/barbet/,2020.0
-sporting group,boykin spaniel,https://www.akc.org/dog-breeds/boykin-spaniel/,2009.0
-sporting group,bracco italiano,https://www.akc.org/dog-breeds/bracco-italiano/,2022.0
-sporting group,brittany,https://www.akc.org/dog-breeds/brittany/,1934.0
-sporting group,chesapeake bay retriever,https://www.akc.org/dog-breeds/chesapeake-bay-retriever/,1878.0
-sporting group,clumber spaniel,https://www.akc.org/dog-breeds/clumber-spaniel/,1878.0
-sporting group,cocker spaniel,https://www.akc.org/dog-breeds/cocker-spaniel/,1878.0
-sporting group,curly-coated retriever,https://www.akc.org/dog-breeds/curly-coated-retriever/,1924.0
-sporting group,english cocker spaniel,https://www.akc.org/dog-breeds/english-cocker-spaniel/,1946.0
-sporting group,english setter,https://www.akc.org/dog-breeds/english-setter/,1878.0
-sporting group,english springer spaniel,https://www.akc.org/dog-breeds/english-springer-spaniel/,1910.0
-sporting group,field spaniel,https://www.akc.org/dog-breeds/field-spaniel/,1894.0
-sporting group,flat-coated retriever,https://www.akc.org/dog-breeds/flat-coated-retriever/,1915.0
-sporting group,german shorthaired pointer,https://www.akc.org/dog-breeds/german-shorthaired-pointer/,1930.0
-sporting group,german wirehaired pointer,https://www.akc.org/dog-breeds/german-wirehaired-pointer/,1959.0
-sporting group,golden retriever,https://www.akc.org/dog-breeds/golden-retriever/,1925.0
-sporting group,gordon setter,https://www.akc.org/dog-breeds/gordon-setter/,1878.0
-sporting group,irish red and white setter,https://www.akc.org/dog-breeds/irish-red-and-white-setter/,2009.0
-sporting group,irish setter,https://www.akc.org/dog-breeds/irish-setter/,1878.0
-sporting group,irish water spaniel,https://www.akc.org/dog-breeds/irish-water-spaniel/,1878.0
-sporting group,labrador retriever,https://www.akc.org/dog-breeds/labrador-retriever/,1917.0
-sporting group,lagotto romagnolo,https://www.akc.org/dog-breeds/lagotto-romagnolo/,2015.0
-sporting group,nederlandse kooikerhondje,https://www.akc.org/dog-breeds/nederlandse-kooikerhondje/,2018.0
-sporting group,nova scotia duck tolling retriever,https://www.akc.org/dog-breeds/nova-scotia-duck-tolling-retriever/,2003.0
-sporting group,pointer,https://www.akc.org/dog-breeds/pointer/,1878.0
-sporting group,spinone italiano,https://www.akc.org/dog-breeds/spinone-italiano/,2000.0
-sporting group,sussex spaniel,https://www.akc.org/dog-breeds/sussex-spaniel/,1878.0
-sporting group,vizsla,https://www.akc.org/dog-breeds/vizsla/,1960.0
-sporting group,weimaraner,https://www.akc.org/dog-breeds/weimaraner/,1943.0
-sporting group,welsh springer spaniel,https://www.akc.org/dog-breeds/welsh-springer-spaniel/,1914.0
-sporting group,wirehaired pointing griffon,https://www.akc.org/dog-breeds/wirehaired-pointing-griffon/,1887.0
-sporting group,wirehaired vizsla,https://www.akc.org/dog-breeds/wirehaired-vizsla/,2014.0
-terrier group,airedale terrier,https://www.akc.org/dog-breeds/airedale-terrier/,1888.0
-terrier group,american hairless terrier,https://www.akc.org/dog-breeds/american-hairless-terrier/,2016.0
-terrier group,american staffordshire terrier,https://www.akc.org/dog-breeds/american-staffordshire-terrier/,1936.0
-terrier group,australian terrier,https://www.akc.org/dog-breeds/australian-terrier/,1960.0
-terrier group,bedlington terrier,https://www.akc.org/dog-breeds/bedlington-terrier/,1886.0
-terrier group,border terrier,https://www.akc.org/dog-breeds/border-terrier/,1930.0
-terrier group,bull terrier,https://www.akc.org/dog-breeds/bull-terrier/,1885.0
-terrier group,cairn terrier,https://www.akc.org/dog-breeds/cairn-terrier/,1913.0
-terrier group,cesky terrier,https://www.akc.org/dog-breeds/cesky-terrier/,2011.0
-terrier group,dandie dinmont terrier,https://www.akc.org/dog-breeds/dandie-dinmont-terrier/,1886.0
-terrier group,glen of imaal terrier,https://www.akc.org/dog-breeds/glen-of-imaal-terrier/,2004.0
-terrier group,irish terrier,https://www.akc.org/dog-breeds/irish-terrier/,1885.0
-terrier group,kerry blue terrier,https://www.akc.org/dog-breeds/kerry-blue-terrier/,1922.0
-terrier group,lakeland terrier,https://www.akc.org/dog-breeds/lakeland-terrier/,1934.0
-terrier group,miniature bull terrier,https://www.akc.org/dog-breeds/miniature-bull-terrier/,1991.0
-terrier group,miniature schnauzer,https://www.akc.org/dog-breeds/miniature-schnauzer/,1926.0
-terrier group,norfolk terrier,https://www.akc.org/dog-breeds/norfolk-terrier/,1979.0
-terrier group,norwich terrier,https://www.akc.org/dog-breeds/norwich-terrier/,1936.0
-terrier group,parson russell terrier,https://www.akc.org/dog-breeds/parson-russell-terrier/,1997.0
-terrier group,rat terrier,https://www.akc.org/dog-breeds/rat-terrier/,2013.0
-terrier group,russell terrier,https://www.akc.org/dog-breeds/russell-terrier/,2012.0
-terrier group,scottish terrier,https://www.akc.org/dog-breeds/scottish-terrier/,1885.0
-terrier group,sealyham terrier,https://www.akc.org/dog-breeds/sealyham-terrier/,1911.0
-terrier group,skye terrier,https://www.akc.org/dog-breeds/skye-terrier/,1887.0
-terrier group,smooth fox terrier,https://www.akc.org/dog-breeds/smooth-fox-terrier/,1885.0
-terrier group,soft coated wheaten terrier,https://www.akc.org/dog-breeds/nederlandse-kooikerhondje/,1973.0
-terrier group,staffordshire bull terrier,https://www.akc.org/dog-breeds/staffordshire-bull-terrier/,1974.0
-terrier group,welsh terrier,https://www.akc.org/dog-breeds/welsh-terrier/,1888.0
-terrier group,west highland white terrier,https://www.akc.org/dog-breeds/west-highland-white-terrier/,1908.0
-terrier group,wire fox terrier,https://www.akc.org/dog-breeds/wire-fox-terrier/,1885.0
-working group,akita,https://www.akc.org/dog-breeds/akita/,1972.0
-working group,alaskan malamute,https://www.akc.org/dog-breeds/alaskan-malamute/,1935.0
-working group,anatolian shepherd dog,https://www.akc.org/dog-breeds/anatolian-shepherd-dog/,1996.0
-working group,bernese mountain dog,https://www.akc.org/dog-breeds/bernese-mountain-dog/,1937.0
-working group,black russian terrier,https://www.akc.org/dog-breeds/black-russian-terrier/,2004.0
-working group,boerboel,https://www.akc.org/dog-breeds/boerboel/,2015.0
-working group,boxer,https://www.akc.org/dog-breeds/boxer/,1904.0
-working group,bullmastiff,https://www.akc.org/dog-breeds/bullmastiff/,1934.0
-working group,cane corso,https://www.akc.org/dog-breeds/cane-corso/,2010.0
-working group,chinook,https://www.akc.org/dog-breeds/chinook/,2013.0
-working group,doberman pinscher,https://www.akc.org/dog-breeds/doberman-pinscher/,1908.0
-working group,dogo argentino,https://www.akc.org/dog-breeds/dogo-argentino/,2020.0
-working group,dogue de bordeaux,https://www.akc.org/dog-breeds/dogue-de-bordeaux/,2008.0
-working group,german pinscher,https://www.akc.org/dog-breeds/german-pinscher/,2003.0
-working group,giant schnauzer,https://www.akc.org/dog-breeds/giant-schnauzer/,1930.0
-working group,great dane,https://www.akc.org/dog-breeds/great-dane/,1887.0
-working group,great pyrenees,https://www.akc.org/dog-breeds/great-pyrenees/,1933.0
-working group,greater swiss mountain dog,https://www.akc.org/dog-breeds/greater-swiss-mountain-dog/,1995.0
-working group,komondor,https://www.akc.org/dog-breeds/komondor/,1937.0
-working group,kuvasz,https://www.akc.org/dog-breeds/kuvasz/,1931.0
-working group,leonberger,https://www.akc.org/dog-breeds/leonberger/,2010.0
-working group,mastiff,https://www.akc.org/dog-breeds/mastiff/,1885.0
-working group,neapolitan mastiff,https://www.akc.org/dog-breeds/neapolitan-mastiff/,2004.0
-working group,newfoundland,https://www.akc.org/dog-breeds/newfoundland/,1886.0
-working group,portuguese water dog,https://www.akc.org/dog-breeds/portuguese-water-dog/,1983.0
-working group,rottweiler,https://www.akc.org/dog-breeds/rottweiler/,1931.0
-working group,saint bernard,https://www.akc.org/dog-breeds/st-bernard/,1885.0
-working group,samoyed,https://www.akc.org/dog-breeds/samoyed/,1906.0
-working group,siberian husky,https://www.akc.org/dog-breeds/siberian-husky/,1930.0
-working group,standard schnauzer,https://www.akc.org/dog-breeds/standard-schnauzer/,1904.0
-working group,tibetan mastiff,https://www.akc.org/dog-breeds/tibetan-mastiff/,2006.0
-miscellaneous class,danish-swedish farmdog,https://www.akc.org/dog-breeds/danish-swedish-farmdog/,
-miscellaneous class,basset fauve de bretagne,https://www.akc.org/dog-breeds/basset-fauve-de-bretagne/,
-miscellaneous class,dutch shepherd,https://www.akc.org/dog-breeds/dutch-shepherd/,
-miscellaneous class,japanese akitainu,https://www.akc.org/dog-breeds/japanese-akitainu/,
-miscellaneous class,kai ken,https://www.akc.org/dog-breeds/kai-ken/,
-miscellaneous class,norrbottenspets,https://www.akc.org/dog-breeds/norrbottenspets/,
-miscellaneous class,peruvian inca orchid,https://www.akc.org/dog-breeds/peruvian-inca-orchid/,
-miscellaneous class,portuguese podengo,https://www.akc.org/dog-breeds/portuguese-podengo/,
-miscellaneous class,russian tsvetnaya bolonka,https://www.akc.org/dog-breeds/russian-tsvetnaya-bolonka/,
-miscellaneous class,small musterlander pointer,https://www.akc.org/dog-breeds/small-munsterlander-pointer/,
-miscellaneous class,teddy roosevelt terrier,https://www.akc.org/dog-breeds/teddy-roosevelt-terrier/,
-foundation stock service,alaskan klee kai,https://www.akc.org/dog-breeds/alaskan-klee-kai/,
-foundation stock service,american bulldog,https://www.akc.org/dog-breeds/american-bulldog/,
-foundation stock service,american leopard hound,https://www.akc.org/dog-breeds/american-leopard-hound/,
-foundation stock service,appenzeller sennenhund,https://www.akc.org/dog-breeds/appenzeller-sennenhunde/,
-foundation stock service,australian kelpie,https://www.akc.org/dog-breeds/australian-kelpie/,
-foundation stock service,australian stumpy tail cattle dog,https://www.akc.org/dog-breeds/australian-stump-tail-cattle-dog/,
-foundation stock service,barbado da terceira,https://www.akc.org/dog-breeds/barbado-da-terceira/,
-foundation stock service,bavarian mountain scent hound,https://www.akc.org/dog-breeds/bavarian-mountain-scent-hound/,
-foundation stock service,bohemian shepherd,https://www.akc.org/dog-breeds/bohemian-shepherd/,
-foundation stock service,bolognese,https://www.akc.org/dog-breeds/bolognese/,
-foundation stock service,braque de bourbonnais,https://www.akc.org/dog-breeds/braque-du-bourbonnais/,
-foundation stock service,braque francais pyrenean,https://www.akc.org/dog-breeds/braque-francais-pyrenean/,
-foundation stock service,broholmer,https://www.akc.org/dog-breeds/broholmer/,
-foundation stock service,carolina dog,https://www.akc.org/dog-breeds/carolina-dog/,
-foundation stock service,catahoula leopard dog,https://www.akc.org/dog-breeds/catahoula-leopard-dog/,
-foundation stock service,caucasian shepherd dog,https://www.akc.org/dog-breeds/caucasian-shepherd-dog/,
-foundation stock service,central asian shepherd dog,https://www.akc.org/dog-breeds/central-asian-shepherd-dog/,
-foundation stock service,croatian sheepdog,https://www.akc.org/dog-breeds/croatian-sheepdog/,
-foundation stock service,czechoslovakian vlack,https://www.akc.org/dog-breeds/czechoslovakian-vlcak/,
-foundation stock service,deutscher wachtelhund,https://www.akc.org/dog-breeds/deutscher-wachtelhund/,
-foundation stock service,drentsche patrijshond,https://www.akc.org/dog-breeds/drentsche-patrijshond/,
-foundation stock service,drever,https://www.akc.org/dog-breeds/drever/,
-foundation stock service,estrela mountain dog,https://www.akc.org/dog-breeds/estrela-mountain-dog/,
-foundation stock service,eurasier,https://www.akc.org/dog-breeds/eurasier/,
-foundation stock service,french spaniel,https://www.akc.org/dog-breeds/french-spaniel/,
-foundation stock service,german longhaired pointer,https://www.akc.org/dog-breeds/german-longhaired-pointer/,
-foundation stock service,german spitz,https://www.akc.org/dog-breeds/german-spitz/,
-foundation stock service,hamiltonstovare,https://www.akc.org/dog-breeds/hamiltonstovare/,
-foundation stock service,hanoverian scenthound,https://www.akc.org/dog-breeds/hanoverian-scenthound/,
-foundation stock service,hokkaido,https://www.akc.org/dog-breeds/hokkaido/,
-foundation stock service,hovawart,https://www.akc.org/dog-breeds/hovawart/,
-foundation stock service,jagdterrier,https://www.akc.org/dog-breeds/jagdterrier/,
-foundation stock service,japanese terrier,https://www.akc.org/dog-breeds/japanese-terrier/,
-foundation stock service,jindo,https://www.akc.org/dog-breeds/jindo/,
-foundation stock service,karelian bear dog,https://www.akc.org/dog-breeds/karelian-bear-dog/,
-foundation stock service,kishu ken,https://www.akc.org/dog-breeds/kishu-ken/,
-foundation stock service,kromfohrlander,https://www.akc.org/dog-breeds/kromfohrlander/,
-foundation stock service,lapponian herder,https://www.akc.org/dog-breeds/lapponian-herder/,
-foundation stock service,mountain cur,https://www.akc.org/dog-breeds/mountain-cur/,
-foundation stock service,perro de presa canario,https://www.akc.org/dog-breeds/perro-de-presa-canario/,
-foundation stock service,porcelaine,https://www.akc.org/dog-breeds/porcelaine/,
-foundation stock service,portuguese pointer,https://www.akc.org/dog-breeds/portuguese-pointer/,
-foundation stock service,portuguese sheepdog,https://www.akc.org/dog-breeds/portuguese-sheepdog/,
-foundation stock service,pudelpointer,https://www.akc.org/dog-breeds/pudelpointer/,
-foundation stock service,pyrenean mastiff,https://www.akc.org/dog-breeds/pyrenean-mastiff/,
-foundation stock service,rafeiro de alentejo,https://www.akc.org/dog-breeds/rafeiro-do-alentejo/,
-foundation stock service,romanian carpathian shepherd,https://www.akc.org/dog-breeds/romanian-carpathian-shepherd/,
-foundation stock service,romanian mioritic shepherd dog,https://www.akc.org/dog-breeds/romanian-mioritic-shepherd-dog/,
-foundation stock service,schapendoes,https://www.akc.org/dog-breeds/schapendoes/,
-foundation stock service,segugio italiano,https://www.akc.org/dog-breeds/segugio-italiano/,
-foundation stock service,shikoku,https://www.akc.org/dog-breeds/shikoku/,
-foundation stock service,slovakian wirehaired pointer,https://www.akc.org/dog-breeds/slovakian-wirehaired-pointer/,
-foundation stock service,slovensky cuvac,https://www.akc.org/dog-breeds/slovensky-cuvac/,
-foundation stock service,slovensky kopov,https://www.akc.org/dog-breeds/slovensky-kopov/,
-foundation stock service,spanish mastiff,https://www.akc.org/dog-breeds/spanish-mastiff/,
-foundation stock service,stabyhoun,https://www.akc.org/dog-breeds/stabyhoun/,
-foundation stock service,swedish lapphund,https://www.akc.org/dog-breeds/swedish-lapphund/,
-foundation stock service,taiwan dog,https://www.akc.org/dog-breeds/taiwan-dog/,
-foundation stock service,thai ridgeback,https://www.akc.org/dog-breeds/thai-ridgeback/,
-foundation stock service,tornjak,https://www.akc.org/dog-breeds/tornjak/,
-foundation stock service,tosa,https://www.akc.org/dog-breeds/tosa/,
-foundation stock service,transylvanian hound,https://www.akc.org/dog-breeds/transylvanian-hound/,
-foundation stock service,treeing tennessee brindle,https://www.akc.org/dog-breeds/treeing-tennessee-brindle/,
-foundation stock service,volpino italiano,https://www.akc.org/dog-breeds/volpino-italiano/,
-foundation stock service,wetterhoun,https://www.akc.org/dog-breeds/wetterhoun/,
-foundation stock service,working kelpie,https://www.akc.org/dog-breeds/working-kelpie/,
-foundation stock service,yakutian laika,https://www.akc.org/dog-breeds/yakutian-laika/,
+breed_group,breed,links,year,temperment,height,weight,life_expectancy,temperment_words,dominant_topic
+herding group,australian cattle dog,https://www.akc.org/dog-breeds/australian-cattle-dog/,1980.0,Loyal / Intelligent / Tenacious,18-20 inches,35-50 pounds,12-16 years,"['loyal', 'intelligent', 'tenacious']",0
+herding group,australian shepherd,https://www.akc.org/dog-breeds/australian-shepherd/,1991.0,smart / work-oriented / exuberant,20-23 inches,50-65 pounds,12-15 years,"['smart', 'work-oriented', 'exuberant']",5
+herding group,bearded collie,https://www.akc.org/dog-breeds/bearded-collie/,1976.0,smart / bouncy / charismatic,21-22 inches,45-55 pounds,12-14 years,"['smart', 'bouncy', 'charismatic']",5
+herding group,beauceron,https://www.akc.org/dog-breeds/beauceron/,2007.0,faithful / gentle / obedient,5 inches,70-110 pounds,10-12 years,"['faithful', 'gentle', 'obedient']",2
+herding group,belgian laekenois,https://www.akc.org/dog-breeds/belgian-laekenois/,2020.0,alert / intelligent / affectionate,24-26 inches,55-65 pounds,10-12 years,"['alert', 'intelligent', 'affectionate']",5
+herding group,belgian malinois,https://www.akc.org/dog-breeds/belgian-malinois/,1959.0,confident / smart / hardworking,24-26 inches,60-80 pounds,14-16 years,"['confident', 'smart', 'hardworking']",5
+herding group,belgian sheepdog,https://www.akc.org/dog-breeds/belgian-sheepdog/,1912.0,bright / watchful / serious-minded,24-26 inches,55-75 pounds,12-14 years,"['bright', 'watchful', 'serious-minded']",0
+herding group,belgian tervuren,https://www.akc.org/dog-breeds/belgian-tervuren/,1959.0,alert / intelligent / courageous,24-26 inches,55-75 pounds,12-14 years,"['alert', 'intelligent', 'courageous']",5
+herding group,bergamasco,https://www.akc.org/dog-breeds/bergamasco-sheepdog/,2015.0,,,,,[''],4
+herding group,berger picard,https://www.akc.org/dog-breeds/berger-picard/,2015.0,loyal / good-natured / observant,5 inches,50-70 pounds,12-13 years,"['loyal', 'good-natured', 'observant']",1
+herding group,border collie,https://www.akc.org/dog-breeds/border-collie/,1995.0,energetic / affectionate / smart,19-22 inches,30-55 pounds,12-15 years,"['energetic', 'affectionate', 'smart']",0
+herding group,bouvier des flandres,https://www.akc.org/dog-breeds/bouvier-des-flandres/,1931.0,strong-willed / courageous / affectionate,5 inches,70-110 pounds,10-12 years,"['strong-willed', 'courageous', 'affectionate']",0
+herding group,briard,https://www.akc.org/dog-breeds/briard/,1928.0,confident / smart / faithful,23-27 inches,55-100 pounds,12 years,"['confident', 'smart', 'faithful']",5
+herding group,canaan dog,https://www.akc.org/dog-breeds/canaan-dog/,1997.0,alert / vigilant / confident,20-24 inches,45-55 pounds,12-15 years,"['alert', 'vigilant', 'confident']",5
+herding group,cardigan welsh corgi,https://www.akc.org/dog-breeds/cardigan-welsh-corgi/,1935.0,loyal / affectionate / smart,5 inches,30-38 pounds,12-15 years,"['loyal', 'affectionate', 'smart']",0
+herding group,collie,https://www.akc.org/dog-breeds/collie/,1885.0,devoted / proud / graceful,24-26 inches,60-75 pounds,12-14 years,"['devoted', 'proud', 'graceful']",3
+herding group,entlebucher mountain dog,https://www.akc.org/dog-breeds/entlebucher-mountain-dog/,2011.0,loyal / smart / enthusiastic,17-21 inches,50-65 pounds,11-13 years,"['loyal', 'smart', 'enthusiastic']",0
+herding group,finnish lapphund,https://www.akc.org/dog-breeds/finnish-lapphund/,2011.0,alert / friendly / agile,18-21 inches,33-53 pounds,12-15 years,"['alert', 'friendly', 'agile']",5
+herding group,german shepherd dog,https://www.akc.org/dog-breeds/german-shepherd-dog/,1908.0,courageous / confident / smart,24-26 inches,65-90 pounds,7-10 years,"['courageous', 'confident', 'smart']",5
+herding group,icelandic sheepdog,https://www.akc.org/dog-breeds/icelandic-sheepdog/,2010.0,friendly / playful / inquisitive,18 inches,30 pounds,12-14 years,"['friendly', 'playful', 'inquisitive']",3
+herding group,lancashire heeler,https://www.akc.org/dog-breeds/lancashire-heeler/,1885.0,intelligent / versatile / affectionate,10-12 inches,9-17 pounds,12-15 years,"['intelligent', 'versatile', 'affectionate']",0
+herding group,miniature american shepherd,https://www.akc.org/dog-breeds/miniature-american-shepherd/,2015.0,intelligent / good-natured / devoted,14-18 inches,20-40 pounds,12-13 years,"['intelligent', 'good-natured', 'devoted']",1
+herding group,mudi,https://www.akc.org/dog-breeds/mudi/,2022.0,loyal / intelligent / active,5 inches,18-29 pounds,12-14 years,"['loyal', 'intelligent', 'active']",5
+herding group,norwegian buhund,https://www.akc.org/dog-breeds/norwegian-buhund/,2009.0,confident / smart / perceptive,5 inches,31-40 pounds,12-15 years,"['confident', 'smart', 'perceptive']",5
+herding group,old english sheepdog,https://www.akc.org/dog-breeds/old-english-sheepdog/,1888.0,smart / gentle / adaptable,22 inches,60-100 pounds,10-12 years,"['smart', 'gentle', 'adaptable']",2
+herding group,pembroke welsh corgi,https://www.akc.org/dog-breeds/pembroke-welsh-corgi/,1934.0,alert / affectionate / smart,10-12 inches,30 pounds,12-13 years,"['alert', 'affectionate', 'smart']",5
+herding group,polish lowland sheepdog,https://www.akc.org/dog-breeds/polish-lowland-sheepdog/,2001.0,confident / lively / clever,18-20 inches,30-50 pounds,12-14 years,"['confident', 'lively', 'clever']",5
+herding group,puli,https://www.akc.org/dog-breeds/puli/,1936.0,loyal / smart / home-loving,17 inches,25-35 pounds,10-15 years,"['loyal', 'smart', 'home-loving']",5
+herding group,pumi,https://www.akc.org/dog-breeds/pumi/,2016.0,energetic / lively / ready to work,5 inches,27-29 pounds,12-13 years,"['energetic', 'lively', 'ready to work']",5
+herding group,pyrenean shepherd,https://www.akc.org/dog-breeds/pyrenean-shepherd/,2009.0,active / affectionate / enthusiastic,5 inches,15-30 pounds,17-19 years,"['active', 'affectionate', 'enthusiastic']",0
+herding group,shetland sheepdog,https://www.akc.org/dog-breeds/shetland-sheepdog/,1911.0,playful / energetic / bright,13-16 inches,15-25 pounds,12-14 years,"['playful', 'energetic', 'bright']",3
+herding group,spanish water dog,https://www.akc.org/dog-breeds/spanish-water-dog/,2015.0,Upbeat / Playful but also work-oriented / Very Active,75 inches,40-49 pounds,12-14 years,"['upbeat', 'playful', 'also work-oriented', 'very active']",3
+herding group,swedish vallhund,https://www.akc.org/dog-breeds/swedish-vallhund/,2007.0,friendly / energetic / watchful,75 inches,20-35 pounds,12-15 years,"['friendly', 'energetic', 'watchful']",0
+hound group,afghan hound,https://www.akc.org/dog-breeds/afghan-hound/,1926.0,independent / sweet,25-27 inches,50-60 pounds,12-18 years,"['independent', 'sweet']",1
+hound group,american english coonhound,https://www.akc.org/dog-breeds/american-english-coonhound/,2011.0,sociable / sweet / mellow,24-26 inches,45-65 pounds,11-12 years,"['sociable', 'sweet', 'mellow']",1
+hound group,american foxhound,https://www.akc.org/dog-breeds/american-foxhound/,1886.0,independent / easy-going / sweet-tempered,22-25 inches,65-70 pounds,11-13 years,"['independent', 'easy-going', 'sweet-tempered']",0
+hound group,azawakh,https://www.akc.org/dog-breeds/azawakh/,2019.0,independent / loyal / deeply affectionate,25-29 inches,44-55 pounds,12-15 years,"['independent', 'loyal', 'deeply affectionate']",0
+hound group,basenji,https://www.akc.org/dog-breeds/basenji/,1944.0,independent / smart / poised,17 inches,24 pounds,13-14 years,"['independent', 'smart', 'poised']",5
+hound group,basset hound,https://www.akc.org/dog-breeds/basset-hound/,1885.0,charming / patient / low-key,15 inches,40-65 pounds,12-13 years,"['charming', 'patient', 'low-key']",2
+hound group,beagle,https://www.akc.org/dog-breeds/beagle/,1885.0,curious / friendly / merry,13 inches,,10-15 years,"['curious', 'friendly', 'merry']",5
+hound group,black and tan coonhound,https://www.akc.org/dog-breeds/black-and-tan-coonhound/,1945.0,easy-going / bright / brave,25-27 inches,65-110 pounds,10-12 years,"['easy-going', 'bright', 'brave']",2
+hound group,bloodhound,https://www.akc.org/dog-breeds/bloodhound/,1885.0,independent / friendly / inquisitive,25-27 inches,90-110 pounds,10-12 years,"['independent', 'friendly', 'inquisitive']",2
+hound group,bluetick coonhound,https://www.akc.org/dog-breeds/bluetick-coonhound/,2009.0,devoted / smart / tenacious,22-27 inches,55-80 pounds,11-12 years,"['devoted', 'smart', 'tenacious']",0
+hound group,borzoi,https://www.akc.org/dog-breeds/borzoi/,1891.0,loyal / affectionate / regally dignified,28 inches,75-105 pounds,9-14 years,"['loyal', 'affectionate', 'regally dignified']",0
+hound group,cirneco dell’etna,https://www.akc.org/dog-breeds/cirneco-delletna/,2015.0,,,,,[''],4
+hound group,dachshund,https://www.akc.org/dog-breeds/dachshund/,1885.0,curious / friendly / spunky,8-9 inches,16-32 pounds,12-16 years,"['curious', 'friendly', 'spunky']",2
+hound group,english foxhound,https://www.akc.org/dog-breeds/english-foxhound/,1909.0,sociable / affectionate / gentle,24 inches,60-75 pounds,10-13 years,"['sociable', 'affectionate', 'gentle']",0
+hound group,grand basset griffon vendeen,https://www.akc.org/dog-breeds/grand-basset-griffon-vendeen/,2018.0,,,,,[''],4
+hound group,greyhound,https://www.akc.org/dog-breeds/greyhound/,1885.0,independent / gentle / noble,28-30 inches,65-70 pounds,10-13 years,"['independent', 'gentle', 'noble']",0
+hound group,harrier,https://www.akc.org/dog-breeds/harrier/,1885.0,friendly / outgoing / people-oriented,19-21 inches,45-60 pounds,12-15 years,"['friendly', 'outgoing', 'people-oriented']",2
+hound group,ibizan hound,https://www.akc.org/dog-breeds/ibizan-hound/,1978.0,family-oriented / even-tempered / polite,5 inches,50 pounds,11-14 years,"['family-oriented', 'even-tempered', 'polite']",3
+hound group,irish wolfhound,https://www.akc.org/dog-breeds/irish-wolfhound/,1897.0,dignified / courageous / calm,32 inches,120 pounds,6-8 years,"['dignified', 'courageous', 'calm']",4
+hound group,norwegian elkhound,https://www.akc.org/dog-breeds/norwegian-elkhound/,1913.0,friendly / confident / dependable,5 inches,55 pounds,12-15 years,"['friendly', 'confident', 'dependable']",2
+hound group,otterhound,https://www.akc.org/dog-breeds/otterhound/,1909.0,even-tempered / amiable / boisterous,27 inches,115 pounds,10-13 years,"['even-tempered', 'amiable', 'boisterous']",2
+hound group,petit basset griffon vendeen,https://www.akc.org/dog-breeds/petit-basset-griffon-vendeen/,1990.0,,,,,[''],4
+hound group,pharaoh hound,https://www.akc.org/dog-breeds/pharaoh-hound/,1983.0,friendly / smart / noble,23-25 inches,45-55 pounds,12-14 years,"['friendly', 'smart', 'noble']",0
+hound group,plott hound,https://www.akc.org/dog-breeds/plott/,2006.0,Loyal / Alert / Intelligent,20-25 inches,50-60 pounds,12-14 years,"['loyal', 'alert', 'intelligent']",5
+hound group,portuguese podengo pequeno,https://www.akc.org/dog-breeds/portuguese-podengo-pequeno/,2013.0,playful / charming / lively,8-12 inches,9-13 pounds,12-15 years,"['playful', 'charming', 'lively']",3
+hound group,redbone coonhound,https://www.akc.org/dog-breeds/redbone-coonhound/,2009.0,eager to please / even-tempered / amiable,22-27 inches,45-70 pounds,12-15 years,"['eager to please', 'even-tempered', 'amiable']",2
+hound group,rhodesian ridgeback,https://www.akc.org/dog-breeds/rhodesian-ridgeback/,1955.0,dignified / affectionate / even-tempered,25-27 inches,85 pounds,10-12 years,"['dignified', 'affectionate', 'even-tempered']",3
+hound group,saluki,https://www.akc.org/dog-breeds/saluki/,1929.0,dignified / gentle / independent-minded,23-28 inches,40-65 pounds,10-17 years,"['dignified', 'gentle', 'independent-minded']",3
+hound group,scottish deerhound,https://www.akc.org/dog-breeds/scottish-deerhound/,1886.0,dignified / gentle / polite,30-32 inches,85-110 pounds,8-11 years,"['dignified', 'gentle', 'polite']",3
+hound group,sloughi,https://www.akc.org/dog-breeds/sloughi/,2016.0,reserved / graceful / noble,26-29 inches,35-50 pounds,10-15 years,"['reserved', 'graceful', 'noble']",1
+hound group,treeing walker coonhound,https://www.akc.org/dog-breeds/treeing-walker-coonhound/,2012.0,smart / brave / courteous,22-27 inches,50-70 pounds,12-13 years,"['smart', 'brave', 'courteous']",1
+hound group,whippet,https://www.akc.org/dog-breeds/whippet/,1888.0,playful / affectionate / calm,19-22 inches,25-40 pounds,12-15 years,"['playful', 'affectionate', 'calm']",3
+toy group,affenpinscher,https://www.akc.org/dog-breeds/affenpinscher/,1936.0,confident / famously funny / fearless,5 inches,7-10 pounds,12-15 years,"['confident', 'famously funny', 'fearless']",4
+toy group,biewer terrier,https://www.akc.org/dog-breeds/biewer-terrier/,2021.0,intelligent / devoted / amusing,7-11 inches,4-8 pounds,16 years,"['intelligent', 'devoted', 'amusing']",1
+toy group,brussels griffon,https://www.akc.org/dog-breeds/brussels-griffon/,1910.0,alert / curious / loyal,7-10 inches,8-10 pounds,12-15 years,"['alert', 'curious', 'loyal']",4
+toy group,cavalier king charles spaniel,https://www.akc.org/dog-breeds/cavalier-king-charles-spaniel/,1995.0,affectionate / gentle / graceful,12-13 inches,13-18 pounds,12-15 years,"['affectionate', 'gentle', 'graceful']",3
+toy group,chihuahua,https://www.akc.org/dog-breeds/chihuahua/,1904.0,charming / graceful / sassy,5-8 inches,6 pounds,14-16 years,"['charming', 'graceful', 'sassy']",3
+toy group,chinese crested,https://www.akc.org/dog-breeds/chinese-crested/,1991.0,alert / lively / affectionate,11-13 inches,8-12 pounds,13-18 years,"['alert', 'lively', 'affectionate']",5
+toy group,english toy spaniel,https://www.akc.org/dog-breeds/english-toy-spaniel/,1886.0,intelligent / playful / gentle,9-10 inches,8-14 pounds,10-12 years,"['intelligent', 'playful', 'gentle']",3
+toy group,havanese,https://www.akc.org/dog-breeds/havanese/,1996.0,intelligent / outgoing / funny,5 inches,7-13 pounds,14-16 years,"['intelligent', 'outgoing', 'funny']",0
+toy group,italian greyhound,https://www.akc.org/dog-breeds/italian-greyhound/,1886.0,alert / playful / sensitive,13-15 inches,7-14 pounds,14-15 years,"['alert', 'playful', 'sensitive']",5
+toy group,japanese chin,https://www.akc.org/dog-breeds/japanese-chin/,1888.0,charming / loving / noble,8-11 inches,7-11 pounds,10-12 years,"['charming', 'loving', 'noble']",2
+toy group,maltese,https://www.akc.org/dog-breeds/maltese/,1888.0,playful / charming / gentle,7-9 inches,7 pounds,12-15 years,"['playful', 'charming', 'gentle']",3
+toy group,manchester terrier,https://www.akc.org/dog-breeds/manchester-terrier/,1886.0,,,,,[''],4
+toy group,miniature pinscher,https://www.akc.org/dog-breeds/miniature-pinscher/,1925.0,fearless / proud / fun-loving,5 inches,8-10 pounds,12-16 years,"['fearless', 'proud', 'fun-loving']",4
+toy group,papillon,https://www.akc.org/dog-breeds/papillon/,1915.0,alert / friendly / happy,8-11 inches,5-10 pounds,14-16 years,"['alert', 'friendly', 'happy']",5
+toy group,pekingese,https://www.akc.org/dog-breeds/pekingese/,1906.0,loyal / affectionate / regal in manner,6-9 inches,14 pounds,12-14 years,"['loyal', 'affectionate', 'regal in manner']",0
+toy group,pomeranian,https://www.akc.org/dog-breeds/pomeranian/,1888.0,inquisitive / lively / bold,6-7 inches,3-7 pounds,12-16 years,"['inquisitive', 'lively', 'bold']",4
+toy group,poodle (toy),https://www.akc.org/dog-breeds/poodle/,1887.0,,,,,[''],4
+toy group,pug,https://www.akc.org/dog-breeds/pug/,1885.0,charming / loving / mischievous,10-13 inches,14-18 pounds,13-15 years,"['charming', 'loving', 'mischievous']",2
+toy group,russian toy,https://www.akc.org/dog-breeds/russian-toy/,2022.0,loyal / charming / smart,8-11 inches,5 pounds,12-14 years,"['loyal', 'charming', 'smart']",0
+toy group,shih tzu,https://www.akc.org/dog-breeds/shih-tzu/,1969.0,playful / affectionate / outgoing,5 inches,9-16 pounds,10-18 years,"['playful', 'affectionate', 'outgoing']",0
+toy group,silky terrier,https://www.akc.org/dog-breeds/silky-terrier/,1959.0,friendly / quick / keenly alert,9-10 inches,10 pounds,13-15 years,"['friendly', 'quick', 'keenly alert']",5
+toy group,toy fox terrier,https://www.akc.org/dog-breeds/toy-fox-terrier/,2003.0,alert / intelligent / friendly,5 inches,,13-15 years,"['alert', 'intelligent', 'friendly']",5
+toy group,yorkshire terrier,https://www.akc.org/dog-breeds/yorkshire-terrier/,1885.0,affectionate / sprightly / tomboyish,7-8 inches,7 pounds,11-15 years,"['affectionate', 'sprightly', 'tomboyish']",0
+non-sporting group,american eskimo dog,https://www.akc.org/dog-breeds/american-eskimo-dog/,1994.0,Loyal / Smart / Versatile,9-12 inches,6-10 pounds,13-15 years,"['loyal', 'smart', 'versatile']",0
+non-sporting group,bichon frise,https://www.akc.org/dog-breeds/bichon-frise/,1972.0,curious / playful / peppy,5 inches,12-18 pounds,14-15 years,"['curious', 'playful', 'peppy']",3
+non-sporting group,boston terrier,https://www.akc.org/dog-breeds/boston-terrier/,1893.0,friendly / bright / amusing,10-12 inches,12-25 pounds,11-13 years,"['friendly', 'bright', 'amusing']",2
+non-sporting group,bulldog,https://www.akc.org/dog-breeds/bulldog/,1886.0,friendly / courageous / calm,14-15 inches,50 pounds,8-10 years,"['friendly', 'courageous', 'calm']",5
+non-sporting group,chinese shar-pei,https://www.akc.org/dog-breeds/chinese-shar-pei/,1992.0,independent / loyal / calm,18-20 inches,45-60 pounds,8-12 years,"['independent', 'loyal', 'calm']",0
+non-sporting group,chow chow,https://www.akc.org/dog-breeds/chow-chow/,1903.0,dignified / bright / serious-minded,17-20 inches,45-70 pounds,8-12 years,"['dignified', 'bright', 'serious-minded']",4
+non-sporting group,coton de tulear,https://www.akc.org/dog-breeds/coton-de-tulear/,2014.0,charming / bright / happy-go-lucky,10-11 inches,9-15 pounds,15-19 years,"['charming', 'bright', 'happy-go-lucky']",2
+non-sporting group,dalmatian,https://www.akc.org/dog-breeds/dalmatian/,1888.0,dignified / outgoing / smart,19-24 inches,45-70 pounds,11-13 years,"['dignified', 'outgoing', 'smart']",4
+non-sporting group,finnish spitz,https://www.akc.org/dog-breeds/finnish-spitz/,1991.0,good-natured / friendly / lively,5-20 inches,25-33 pounds,13-15 years,"['good-natured', 'friendly', 'lively']",5
+non-sporting group,french bulldog,https://www.akc.org/dog-breeds/french-bulldog/,1898.0,playful / smart / adaptable,11-13 inches,28 pounds,10-12 years,"['playful', 'smart', 'adaptable']",2
+non-sporting group,keeshond,https://www.akc.org/dog-breeds/keeshond/,1930.0,friendly / lively / outgoing,18 inches,35-45 pounds,12-15 years,"['friendly', 'lively', 'outgoing']",5
+non-sporting group,lhasa apso,https://www.akc.org/dog-breeds/lhasa-apso/,1935.0,confident / smart / comical,10-11 inches,12-18 pounds,12-15 years,"['confident', 'smart', 'comical']",5
+non-sporting group,lowchen,https://www.akc.org/dog-breeds/lowchen/,1996.0,,,,,[''],4
+non-sporting group,norwegian lundhund,https://www.akc.org/dog-breeds/norwegian-lundehund/,2011.0,,,,,[''],4
+non-sporting group,poodle,https://www.akc.org/dog-breeds/poodle/,1887.0,,,,,[''],4
+non-sporting group,schipperke,https://www.akc.org/dog-breeds/schipperke/,1904.0,alert / curious / confident,11-13 inches,10-16 pounds,12-16 years,"['alert', 'curious', 'confident']",5
+non-sporting group,shiba inu,https://www.akc.org/dog-breeds/shiba-inu/,1992.0,alert / active / attentive,5 inches,23 pounds,13-16 years,"['alert', 'active', 'attentive']",5
+non-sporting group,tibetan spaniel,https://www.akc.org/dog-breeds/tibetan-spaniel/,1983.0,playful / bright / self-confident,10 inches,9-15 pounds,12-15 years,"['playful', 'bright', 'self-confident']",3
+non-sporting group,tibetan terrier,https://www.akc.org/dog-breeds/tibetan-terrier/,1973.0,loyal / affectionate / sensitive,14-17 inches,18-30 pounds,15-16 years,"['loyal', 'affectionate', 'sensitive']",0
+non-sporting group,xoloitzcuintli,https://www.akc.org/dog-breeds/xoloitzcuintli/,2011.0,alert / loyal / calm,10-14 inches,10-15 pounds,13-18 years,"['alert', 'loyal', 'calm']",5
+sporting group,american water spaniel,https://www.akc.org/dog-breeds/american-water-spaniel/,1940.0,charming / eager / happy,15-18 inches,30-45 pounds,10-14 years,"['charming', 'eager', 'happy']",2
+sporting group,barbet,https://www.akc.org/dog-breeds/barbet/,2020.0,friendly / bright / sweet-natured,5 inches,35-65 pounds,12-14 years,"['friendly', 'bright', 'sweet-natured']",2
+sporting group,boykin spaniel,https://www.akc.org/dog-breeds/boykin-spaniel/,2009.0,friendly / eager / lovable,5-18 inches,30-40 pounds,10-15 years,"['friendly', 'eager', 'lovable']",5
+sporting group,bracco italiano,https://www.akc.org/dog-breeds/bracco-italiano/,2022.0,intelligent / affectionate / enthusiastic,21-27 inches,55-90 pounds,10-14 years,"['intelligent', 'affectionate', 'enthusiastic']",0
+sporting group,brittany,https://www.akc.org/dog-breeds/brittany/,1934.0,bright / fun-loving / upbeat,5 inches,30-40 pounds,12-14 years,"['bright', 'fun-loving', 'upbeat']",4
+sporting group,chesapeake bay retriever,https://www.akc.org/dog-breeds/chesapeake-bay-retriever/,1878.0,bright / affectionate / sensitive,23-26 inches,65-80 pounds,10-13 years,"['bright', 'affectionate', 'sensitive']",1
+sporting group,clumber spaniel,https://www.akc.org/dog-breeds/clumber-spaniel/,1878.0,mellow / amusing / gentlemanly,18-20 inches,70-85 pounds,10-12 years,"['mellow', 'amusing', 'gentlemanly']",1
+sporting group,cocker spaniel,https://www.akc.org/dog-breeds/cocker-spaniel/,1878.0,smart / happy / gentle,5 inches,25-30 pounds,10-14 years,"['smart', 'happy', 'gentle']",2
+sporting group,curly-coated retriever,https://www.akc.org/dog-breeds/curly-coated-retriever/,1924.0,confident / proud / wickedly smart,25-27 inches,60-95 pounds,10-12 years,"['confident', 'proud', 'wickedly smart']",3
+sporting group,english cocker spaniel,https://www.akc.org/dog-breeds/english-cocker-spaniel/,1946.0,energetic / merry / responsive,16-17 inches,28-34 pounds,12-14 years,"['energetic', 'merry', 'responsive']",0
+sporting group,english setter,https://www.akc.org/dog-breeds/english-setter/,1878.0,friendly / mellow / merry,25-27 inches,65-80 pounds,12 years,"['friendly', 'mellow', 'merry']",5
+sporting group,english springer spaniel,https://www.akc.org/dog-breeds/english-springer-spaniel/,1910.0,friendly / playful / obedient,20 inches,50 pounds,12-14 years,"['friendly', 'playful', 'obedient']",2
+sporting group,field spaniel,https://www.akc.org/dog-breeds/field-spaniel/,1894.0,sweet / fun-loving / sensitive,18 inches,35-50 pounds,12-13 years,"['sweet', 'fun-loving', 'sensitive']",1
+sporting group,flat-coated retriever,https://www.akc.org/dog-breeds/flat-coated-retriever/,1915.0,cheerful / optimistic / good-humored,5 inches,60-70 pounds,8-10 years,"['cheerful', 'optimistic', 'good-humored']",3
+sporting group,german shorthaired pointer,https://www.akc.org/dog-breeds/german-shorthaired-pointer/,1930.0,friendly / smart / willing to please,23-25 inches,55-70 pounds,10-12 years,"['friendly', 'smart', 'willing to please']",5
+sporting group,german wirehaired pointer,https://www.akc.org/dog-breeds/german-wirehaired-pointer/,1959.0,affectionate / eager / enthusiastic,24-26 inches,50-70 pounds,14-16 years,"['affectionate', 'eager', 'enthusiastic']",0
+sporting group,golden retriever,https://www.akc.org/dog-breeds/golden-retriever/,1925.0,intelligent / friendly / devoted,23-24 inches,65-75 pounds,10-12 years,"['intelligent', 'friendly', 'devoted']",5
+sporting group,gordon setter,https://www.akc.org/dog-breeds/gordon-setter/,1878.0,confident / affectionate / bold,24-27 inches,55-80 pounds,12-13 years,"['confident', 'affectionate', 'bold']",5
+sporting group,irish red and white setter,https://www.akc.org/dog-breeds/irish-red-and-white-setter/,2009.0,courageous / spirited / determined,5-26 inches,42-60 pounds,11-15 years,"['courageous', 'spirited', 'determined']",5
+sporting group,irish setter,https://www.akc.org/dog-breeds/irish-setter/,1878.0,active / sweet-natured / outgoing,27 inches,70 pounds,12-15 years,"['active', 'sweet-natured', 'outgoing']",5
+sporting group,irish water spaniel,https://www.akc.org/dog-breeds/irish-water-spaniel/,1878.0,playful / hardworking / brave,22-24 inches,55-68 pounds,12-13 years,"['playful', 'hardworking', 'brave']",4
+sporting group,labrador retriever,https://www.akc.org/dog-breeds/labrador-retriever/,1917.0,active / friendly / outgoing,5 inches,65-80 pounds,11-13 years,"['active', 'friendly', 'outgoing']",2
+sporting group,lagotto romagnolo,https://www.akc.org/dog-breeds/lagotto-romagnolo/,2015.0,affectionate / keen / undemanding,17-19 inches,5-35 pounds,15-17 years,"['affectionate', 'keen', 'undemanding']",0
+sporting group,nederlandse kooikerhondje,https://www.akc.org/dog-breeds/nederlandse-kooikerhondje/,2018.0,alert / friendly / quick,,,12-15 years,"['alert', 'friendly', 'quick']",5
+sporting group,nederlandse kooikerhondje,https://www.akc.org/dog-breeds/nederlandse-kooikerhondje/,2018.0,alert / friendly / quick,,,12-15 years,"['alert', 'friendly', 'quick']",5
+sporting group,nova scotia duck tolling retriever,https://www.akc.org/dog-breeds/nova-scotia-duck-tolling-retriever/,2003.0,intelligent / affectionate / outgoing,18-21 inches,35-50 pounds,12-14 years,"['intelligent', 'affectionate', 'outgoing']",0
+sporting group,pointer,https://www.akc.org/dog-breeds/pointer/,1878.0,loyal / hardworking / even-tempered,25-28 inches,55-75 pounds,12-17 years,"['loyal', 'hardworking', 'even-tempered']",5
+sporting group,spinone italiano,https://www.akc.org/dog-breeds/spinone-italiano/,2000.0,sociable / patient / docile,23-27 inches,,10-12 years,"['sociable', 'patient', 'docile']",1
+sporting group,sussex spaniel,https://www.akc.org/dog-breeds/sussex-spaniel/,1878.0,friendly / merry / even-tempered,13-15 inches,35-45 pounds,13-15 years,"['friendly', 'merry', 'even-tempered']",5
+sporting group,vizsla,https://www.akc.org/dog-breeds/vizsla/,1960.0,energetic / affectionate / gentle,22-24 inches,55-60 pounds,12-14 years,"['energetic', 'affectionate', 'gentle']",0
+sporting group,weimaraner,https://www.akc.org/dog-breeds/weimaraner/,1943.0,friendly / fearless / obedient,25-27 inches,70-90 pounds,10-13 years,"['friendly', 'fearless', 'obedient']",2
+sporting group,welsh springer spaniel,https://www.akc.org/dog-breeds/welsh-springer-spaniel/,1914.0,reserved / happy / upbeat,18-19 inches,40-55 pounds,12-15 years,"['reserved', 'happy', 'upbeat']",1
+sporting group,wirehaired pointing griffon,https://www.akc.org/dog-breeds/wirehaired-pointing-griffon/,1887.0,friendly / devoted / trainable,22-24 inches,50-70 pounds,12-15 years,"['friendly', 'devoted', 'trainable']",1
+sporting group,wirehaired vizsla,https://www.akc.org/dog-breeds/wirehaired-vizsla/,2014.0,loyal / gentle / trainable,23-25 inches,55-65 pounds,12-14 years,"['loyal', 'gentle', 'trainable']",0
+terrier group,airedale terrier,https://www.akc.org/dog-breeds/airedale-terrier/,1888.0,friendly / courageous / clever,23 inches,50-70 pounds,11-14 years,"['friendly', 'courageous', 'clever']",5
+terrier group,american hairless terrier,https://www.akc.org/dog-breeds/american-hairless-terrier/,2016.0,alert / curious / energetic,12-16 inches,12-28 pounds,14-16 years,"['alert', 'curious', 'energetic']",4
+terrier group,american staffordshire terrier,https://www.akc.org/dog-breeds/american-staffordshire-terrier/,1936.0,good-natured / confident / smart,18-19 inches,55-70 pounds,12-16 years,"['good-natured', 'confident', 'smart']",5
+terrier group,australian terrier,https://www.akc.org/dog-breeds/australian-terrier/,1960.0,courageous / affectionate / spirited,10-11 inches,15-20 pounds,11-15 years,"['courageous', 'affectionate', 'spirited']",5
+terrier group,bedlington terrier,https://www.akc.org/dog-breeds/bedlington-terrier/,1886.0,loyal / charming / frollicking,5 inches,17-23 pounds,11-16 years,"['loyal', 'charming', 'frollicking']",0
+terrier group,border terrier,https://www.akc.org/dog-breeds/border-terrier/,1930.0,affectionate / happy / plucky,12-15 inches,5 pounds,12-15 years,"['affectionate', 'happy', 'plucky']",4
+terrier group,bull terrier,https://www.akc.org/dog-breeds/bull-terrier/,1885.0,playful / charming / mischievous,21-22 inches,50-70 pounds,12-13 years,"['playful', 'charming', 'mischievous']",3
+terrier group,cairn terrier,https://www.akc.org/dog-breeds/cairn-terrier/,1913.0,alert / cheerful / busy,10 inches,14 pounds,13-15 years,"['alert', 'cheerful', 'busy']",5
+terrier group,cesky terrier,https://www.akc.org/dog-breeds/cesky-terrier/,2011.0,clever / adventurous / family-oriented,10-13 inches,14-24 pounds,12-15 years,"['clever', 'adventurous', 'family-oriented']",1
+terrier group,dandie dinmont terrier,https://www.akc.org/dog-breeds/dandie-dinmont-terrier/,1886.0,independent / proud / smart,8-11 inches,18-24 pounds,12-15 years,"['independent', 'proud', 'smart']",0
+terrier group,glen of imaal terrier,https://www.akc.org/dog-breeds/glen-of-imaal-terrier/,2004.0,spirited / gentle / bold,5-14 inches,32-40 pounds,10-15 years,"['spirited', 'gentle', 'bold']",5
+terrier group,irish terrier,https://www.akc.org/dog-breeds/irish-terrier/,1885.0,bold / dashing / tenderhearted,18 inches,27 pounds,13-15 years,"['bold', 'dashing', 'tenderhearted']",5
+terrier group,kerry blue terrier,https://www.akc.org/dog-breeds/kerry-blue-terrier/,1922.0,alert / smart / people-oriented,5 inches,33-40 pounds,12-15 years,"['alert', 'smart', 'people-oriented']",5
+terrier group,lakeland terrier,https://www.akc.org/dog-breeds/lakeland-terrier/,1934.0,friendly / confident / bold,5-15 inches,17 pounds,12-15 years,"['friendly', 'confident', 'bold']",5
+terrier group,miniature bull terrier,https://www.akc.org/dog-breeds/miniature-bull-terrier/,1991.0,upbeat / mischievous / comical,10-14 inches,18-28 pounds,11-13 years,"['upbeat', 'mischievous', 'comical']",4
+terrier group,miniature schnauzer,https://www.akc.org/dog-breeds/miniature-schnauzer/,1926.0,friendly / smart / obedient,12-14 inches,11-20 pounds,12-15 years,"['friendly', 'smart', 'obedient']",2
+terrier group,norfolk terrier,https://www.akc.org/dog-breeds/norfolk-terrier/,1979.0,alert / fearless / fun-loving,9-10 inches,11-12 pounds,12-16 years,"['alert', 'fearless', 'fun-loving']",4
+terrier group,norwich terrier,https://www.akc.org/dog-breeds/norwich-terrier/,1936.0,alert / curious / loyal / affectionate / gregarious,10 inches,12 pounds,12-15 years,"['alert', 'curious', 'loyal', 'affectionate', 'gregarious']",4
+terrier group,parson russell terrier,https://www.akc.org/dog-breeds/parson-russell-terrier/,1997.0,friendly / clever / athletic,14 inches,13-17 pounds,13-15 years,"['friendly', 'clever', 'athletic']",5
+terrier group,rat terrier,https://www.akc.org/dog-breeds/rat-terrier/,2013.0,friendly / inquisitive / lovable,10-13 inches,10-25 pounds,12-18 years,"['friendly', 'inquisitive', 'lovable']",5
+terrier group,russell terrier,https://www.akc.org/dog-breeds/russell-terrier/,2012.0,alert / inquisitive / lively,10-12 inches,9-15 pounds,12-14 years,"['alert', 'inquisitive', 'lively']",4
+terrier group,scottish terrier,https://www.akc.org/dog-breeds/scottish-terrier/,1885.0,independent / confident / spirited,10 inches,19-22 pounds,12 years,"['independent', 'confident', 'spirited']",5
+terrier group,sealyham terrier,https://www.akc.org/dog-breeds/sealyham-terrier/,1911.0,alert / outgoing / sense of humor,5 inches,23-24 pounds,12-14 years,"['alert', 'outgoing', 'sense of humor']",4
+terrier group,skye terrier,https://www.akc.org/dog-breeds/skye-terrier/,1887.0,courageous / good-tempered / canny,10 inches,35-45 pounds,12-14 years,"['courageous', 'good-tempered', 'canny']",4
+terrier group,smooth fox terrier,https://www.akc.org/dog-breeds/smooth-fox-terrier/,1885.0,independent / friendly / amusing,,18 pounds,12-15 years,"['independent', 'friendly', 'amusing']",2
+terrier group,soft coated wheaten terrier,https://www.akc.org/dog-breeds/nederlandse-kooikerhondje/,1973.0,,,,,[''],4
+terrier group,staffordshire bull terrier,https://www.akc.org/dog-breeds/staffordshire-bull-terrier/,1974.0,clever / brave / tenacious,14-16 inches,28-38 pounds,12-14 years,"['clever', 'brave', 'tenacious']",1
+terrier group,welsh terrier,https://www.akc.org/dog-breeds/welsh-terrier/,1888.0,intelligent / friendly / spirited,15 inches,20 pounds,12-15 years,"['intelligent', 'friendly', 'spirited']",5
+terrier group,west highland white terrier,https://www.akc.org/dog-breeds/west-highland-white-terrier/,1908.0,loyal / happy / entertaining,11 inches,15-20 pounds,13-15 years,"['loyal', 'happy', 'entertaining']",5
+terrier group,wire fox terrier,https://www.akc.org/dog-breeds/wire-fox-terrier/,1885.0,alert / confident / gregarious,,18 pounds,12-15 years,"['alert', 'confident', 'gregarious']",5
+working group,akita,https://www.akc.org/dog-breeds/akita/,1972.0,dignified / courageous / profoundly loyal,26-28 inches,100-130 pounds,10-14 years,"['dignified', 'courageous', 'profoundly loyal']",4
+working group,alaskan malamute,https://www.akc.org/dog-breeds/alaskan-malamute/,1935.0,loyal / playful / affectionate,25 inches,85 pounds,10-14 years,"['loyal', 'playful', 'affectionate']",0
+working group,anatolian shepherd dog,https://www.akc.org/dog-breeds/anatolian-shepherd-dog/,1996.0,reserved / independent / loyal,29 inches,110-150 pounds,11-13 years,"['reserved', 'independent', 'loyal']",0
+working group,bernese mountain dog,https://www.akc.org/dog-breeds/bernese-mountain-dog/,1937.0,good-natured / calm / strong,5 inches,80-115 pounds,7-10 years,"['good-natured', 'calm', 'strong']",1
+working group,black russian terrier,https://www.akc.org/dog-breeds/black-russian-terrier/,2004.0,intelligent / calm / powerful,27-30 inches,80-130 pounds,10-12 years,"['intelligent', 'calm', 'powerful']",3
+working group,boerboel,https://www.akc.org/dog-breeds/boerboel/,2015.0,intelligent / confident / calm,24-27 inches,150-200 pounds,9-11 years,"['intelligent', 'confident', 'calm']",3
+working group,boxer,https://www.akc.org/dog-breeds/boxer/,1904.0,active / bright / fun-loving,23-25 inches,65-80 pounds,10-12 years,"['active', 'bright', 'fun-loving']",2
+working group,bullmastiff,https://www.akc.org/dog-breeds/bullmastiff/,1934.0,loyal / affectionate / brave,25-27 inches,110-130 pounds,7-9 years,"['loyal', 'affectionate', 'brave']",0
+working group,cane corso,https://www.akc.org/dog-breeds/cane-corso/,2010.0,intelligent / affectionate / majestic,5 inches,,9-12 years,"['intelligent', 'affectionate', 'majestic']",0
+working group,chinook,https://www.akc.org/dog-breeds/chinook/,2013.0,devoted / smart / patient,24-26 inches,55-90 pounds,12-15 years,"['devoted', 'smart', 'patient']",1
+working group,doberman pinscher,https://www.akc.org/dog-breeds/doberman-pinscher/,1908.0,alert / loyal / fearless,26-28 inches,75-100 pounds,10-12 years,"['alert', 'loyal', 'fearless']",4
+working group,dogo argentino,https://www.akc.org/dog-breeds/dogo-argentino/,2020.0,loyal / courageous / athletic,5 inches,80-100 pounds,9-15 years,"['loyal', 'courageous', 'athletic']",5
+working group,dogue de bordeaux,https://www.akc.org/dog-breeds/dogue-de-bordeaux/,2008.0,loyal / courageous / affectionate,27 inches,110 pounds,5-8 years,"['loyal', 'courageous', 'affectionate']",0
+working group,german pinscher,https://www.akc.org/dog-breeds/german-pinscher/,2003.0,intelligent / courageous / vivacious,17-20 inches,25-45 pounds,12-14 years,"['intelligent', 'courageous', 'vivacious']",5
+working group,giant schnauzer,https://www.akc.org/dog-breeds/giant-schnauzer/,1930.0,alert / loyal / trainable,5 inches,60-85 pounds,12-15 years,"['alert', 'loyal', 'trainable']",5
+working group,great dane,https://www.akc.org/dog-breeds/great-dane/,1887.0,friendly / patient / dependable,30-32 inches,140-175 pounds,7-10 years,"['friendly', 'patient', 'dependable']",2
+working group,great pyrenees,https://www.akc.org/dog-breeds/great-pyrenees/,1933.0,smart / patient / calm,27-32 inches,100 pounds,10-12 years,"['smart', 'patient', 'calm']",1
+working group,greater swiss mountain dog,https://www.akc.org/dog-breeds/greater-swiss-mountain-dog/,1995.0,faithful / family-oriented / dependable,5 inches,115-140 pounds,8-11 years,"['faithful', 'family-oriented', 'dependable']",2
+working group,komondor,https://www.akc.org/dog-breeds/komondor/,1937.0,dignified / loyal / brave,,100 pounds,10-12 years,"['dignified', 'loyal', 'brave']",4
+working group,kuvasz,https://www.akc.org/dog-breeds/kuvasz/,1931.0,loyal / fearless / sweet,28-30 inches,100-115 pounds,10-12 years,"['loyal', 'fearless', 'sweet']",4
+working group,leonberger,https://www.akc.org/dog-breeds/leonberger/,2010.0,friendly / playful / gentle,5 inches,110-170 pounds,7 years,"['friendly', 'playful', 'gentle']",3
+working group,mastiff,https://www.akc.org/dog-breeds/mastiff/,1885.0,dignified / good-natured / courageous,30 inches,160-230 pounds,6-10 years,"['dignified', 'good-natured', 'courageous']",5
+working group,neapolitan mastiff,https://www.akc.org/dog-breeds/neapolitan-mastiff/,2004.0,dignified / loyal / watchful,26-31 inches,150 pounds,7-9 years,"['dignified', 'loyal', 'watchful']",0
+working group,newfoundland,https://www.akc.org/dog-breeds/newfoundland/,1886.0,devoted / sweet / patient,28 inches,130-150 pounds,9-10 years,"['devoted', 'sweet', 'patient']",1
+working group,portuguese water dog,https://www.akc.org/dog-breeds/portuguese-water-dog/,1983.0,affectionate / adventurous / athletic,20-23 inches,42-60 pounds,11-13 years,"['affectionate', 'adventurous', 'athletic']",1
+working group,rottweiler,https://www.akc.org/dog-breeds/rottweiler/,1931.0,loyal / loving / confident guardian,24-27 inches,95-135 pounds,9-10 years,"['loyal', 'loving', 'confident guardian']",2
+working group,saint bernard,https://www.akc.org/dog-breeds/st-bernard/,1885.0,playful / charming / inquisitive,28-30 inches,140-180 pounds,8-10 years,"['playful', 'charming', 'inquisitive']",3
+working group,samoyed,https://www.akc.org/dog-breeds/samoyed/,1906.0,friendly / gentle / adaptable,5 inches,45-65 pounds,12-14 years,"['friendly', 'gentle', 'adaptable']",2
+working group,siberian husky,https://www.akc.org/dog-breeds/siberian-husky/,1930.0,Loyal / Outgoing / mischievous,5 inches,45-60 pounds,12-14 years,"['loyal', 'outgoing', 'mischievous']",4
+working group,standard schnauzer,https://www.akc.org/dog-breeds/standard-schnauzer/,1904.0,fearless / smart / spirited,5 inches,35-50 pounds,13-16 years,"['fearless', 'smart', 'spirited']",5
+working group,tibetan mastiff,https://www.akc.org/dog-breeds/tibetan-mastiff/,2006.0,reserved / independent / intelligent,26 inches,90-150 pounds,10-12 years,"['reserved', 'independent', 'intelligent']",0
+miscellaneous class,danish-swedish farmdog,https://www.akc.org/dog-breeds/danish-swedish-farmdog/,,energetic / trainable / attentive,5 inches,15-20 pounds,11-13 years,"['energetic', 'trainable', 'attentive']",1
+miscellaneous class,basset fauve de bretagne,https://www.akc.org/dog-breeds/basset-fauve-de-bretagne/,,sociable / lively / smart,5 inches,23-39 pounds,13-16 years,"['sociable', 'lively', 'smart']",0
+miscellaneous class,dutch shepherd,https://www.akc.org/dog-breeds/dutch-shepherd/,,intelligent / lively / athletic,5 inches,42-75 pounds,11-14 years,"['intelligent', 'lively', 'athletic']",5
+miscellaneous class,japanese akitainu,https://www.akc.org/dog-breeds/japanese-akitainu/,,dignified / alert / aloof,5 inches,65-75 pounds,10-12 years,"['dignified', 'alert', 'aloof']",4
+miscellaneous class,kai ken,https://www.akc.org/dog-breeds/kai-ken/,,loyal / intelligent / agile,,,12-15 years,"['loyal', 'intelligent', 'agile']",0
+miscellaneous class,norrbottenspets,https://www.akc.org/dog-breeds/norrbottenspets/,,fearless / agile / attentive,5-18 inches,20-30 pounds,14-17 years,"['fearless', 'agile', 'attentive']",4
+miscellaneous class,peruvian inca orchid,https://www.akc.org/dog-breeds/peruvian-inca-orchid/,,loyal / affectionate / noble,75 inches,5 pounds,12-14 years,"['loyal', 'affectionate', 'noble']",0
+miscellaneous class,portuguese podengo,https://www.akc.org/dog-breeds/portuguese-podengo/,,alert / independent / intelligent,22-28 inches,44-66 pounds,10-15 years,"['alert', 'independent', 'intelligent']",5
+miscellaneous class,russian tsvetnaya bolonka,https://www.akc.org/dog-breeds/russian-tsvetnaya-bolonka/,,playful / charming / inquisitive,11 inches,6 - 9 pounds,14-20 years,"['playful', 'charming', 'inquisitive']",3
+miscellaneous class,small musterlander pointer,https://www.akc.org/dog-breeds/small-munsterlander-pointer/,,,,,,[''],4
+miscellaneous class,teddy roosevelt terrier,https://www.akc.org/dog-breeds/teddy-roosevelt-terrier/,,intelligent / playful / versatile,8-14 inches,8-25 pounds,14-16 years,"['intelligent', 'playful', 'versatile']",3
+foundation stock service,alaskan klee kai,https://www.akc.org/dog-breeds/alaskan-klee-kai/,,loyal / intelligent / vigilant,12 - 17 inches,,13-16 years,"['loyal', 'intelligent', 'vigilant']",4
+foundation stock service,american bulldog,https://www.akc.org/dog-breeds/american-bulldog/,,loyal / self-confident,22-25 inches,75-100 pounds,10-12 years,"['loyal', 'self-confident']",5
+foundation stock service,american leopard hound,https://www.akc.org/dog-breeds/american-leopard-hound/,,intelligent / sociable / energetic,,,12-15 years,"['intelligent', 'sociable', 'energetic']",0
+foundation stock service,appenzeller sennenhund,https://www.akc.org/dog-breeds/appenzeller-sennenhunde/,,versatile / agile / lively,20 -22 inches,48-70 pounds,13-15 years,"['versatile', 'agile', 'lively']",0
+foundation stock service,australian kelpie,https://www.akc.org/dog-breeds/australian-kelpie/,,alert / loyal / intelligent,17-20 inches,,10-13 years,"['alert', 'loyal', 'intelligent']",5
+foundation stock service,australian stumpy tail cattle dog,https://www.akc.org/dog-breeds/australian-stump-tail-cattle-dog/,,alert / active / bidable,18-20 inches,,12-15 years,"['alert', 'active', 'bidable']",5
+foundation stock service,barbado da terceira,https://www.akc.org/dog-breeds/barbado-da-terceira/,,loyal / intelligent / joyful and fun loving,2 - 22 inches,,12-14 years,"['loyal', 'intelligent', 'joyful', 'fun loving']",3
+foundation stock service,bavarian mountain scent hound,https://www.akc.org/dog-breeds/bavarian-mountain-scent-hound/,,loyal / reserved with strangers / versatile,5 inches,37-66 pounds,12-15 years,"['loyal', 'reserved with strangers', 'versatile']",5
+foundation stock service,bohemian shepherd,https://www.akc.org/dog-breeds/bohemian-shepherd/,,"friendly, devoted, alert and intelligent",7 inches,41-60 pounds,12-15 years,"['friendly', 'devoted', 'alert', 'intelligent']",5
+foundation stock service,bolognese,https://www.akc.org/dog-breeds/bolognese/,,playful / easy-going / devoted,10-12 inches,6-10 pounds,12-14 years,"['playful', 'easy-going', 'devoted']",3
+foundation stock service,braque de bourbonnais,https://www.akc.org/dog-breeds/braque-du-bourbonnais/,,,,,,[''],4
+foundation stock service,braque francais pyrenean,https://www.akc.org/dog-breeds/braque-francais-pyrenean/,,friendly / smart / willing to please,5-23 inches,40-55 pounds,12-15 years,"['friendly', 'smart', 'willing to please']",5
+foundation stock service,broholmer,https://www.akc.org/dog-breeds/broholmer/,,friendly / loving / watchful,5 inches,90-150 pounds,8-10 years,"['friendly', 'loving', 'watchful']",2
+foundation stock service,carolina dog,https://www.akc.org/dog-breeds/carolina-dog/,,independent / loyal / reserved with strangers,5 inches,30-55 pounds,12-15 years,"['independent', 'loyal', 'reserved with strangers']",0
+foundation stock service,catahoula leopard dog,https://www.akc.org/dog-breeds/catahoula-leopard-dog/,,independent / loyal / watchful,22-24 inches,50-95 pounds,10-14 years,"['independent', 'loyal', 'watchful']",0
+foundation stock service,caucasian shepherd dog,https://www.akc.org/dog-breeds/caucasian-shepherd-dog/,,fearless / bold / kind,23-30 inches,99-170 pounds,10-12 years,"['fearless', 'bold', 'kind']",4
+foundation stock service,central asian shepherd dog,https://www.akc.org/dog-breeds/central-asian-shepherd-dog/,,independent / courageous / self-confident,5 inches,88-110 pounds,,"['independent', 'courageous', 'self-confident']",5
+foundation stock service,croatian sheepdog,https://www.akc.org/dog-breeds/croatian-sheepdog/,,loyal / active / alert and intelligent,16-20 inches,29-44 pounds,13-14 years,"['loyal', 'active', 'alert', 'intelligent']",5
+foundation stock service,czechoslovakian vlack,https://www.akc.org/dog-breeds/czechoslovakian-vlcak/,,,,,,[''],4
+foundation stock service,deutscher wachtelhund,https://www.akc.org/dog-breeds/deutscher-wachtelhund/,,friendly / versatile / determined,18-21 inches,40-55 pounds,12-14 years,"['friendly', 'versatile', 'determined']",5
+foundation stock service,drentsche patrijshond,https://www.akc.org/dog-breeds/drentsche-patrijshond/,,loyal / intelligent / friendly,,,11-14 years,"['loyal', 'intelligent', 'friendly']",5
+foundation stock service,drever,https://www.akc.org/dog-breeds/drever/,,loyal / determined / even-tempered,12-15 inches,35-40 pounds,15 years,"['loyal', 'determined', 'even-tempered']",5
+foundation stock service,estrela mountain dog,https://www.akc.org/dog-breeds/estrela-mountain-dog/,,alert / intelligent / brave,5-29 inches,77-132 pounds,10-14 years,"['alert', 'intelligent', 'brave']",5
+foundation stock service,eurasier,https://www.akc.org/dog-breeds/eurasier/,,confident / calm / family-oriented,19-24 inches,40-70 pounds,12-16 years,"['confident', 'calm', 'family-oriented']",3
+foundation stock service,french spaniel,https://www.akc.org/dog-breeds/french-spaniel/,,intelligent / sociable / gentle,5-24 inches,50-60 pounds,10-12 years,"['intelligent', 'sociable', 'gentle']",3
+foundation stock service,german longhaired pointer,https://www.akc.org/dog-breeds/german-longhaired-pointer/,,versatile / calm / family-oriented,22-28 inches,55-80 pounds,12-14 years,"['versatile', 'calm', 'family-oriented']",3
+foundation stock service,german spitz,https://www.akc.org/dog-breeds/german-spitz/,,active / devoted / smart,,,13-15 years,"['active', 'devoted', 'smart']",5
+foundation stock service,hamiltonstovare,https://www.akc.org/dog-breeds/hamiltonstovare/,,versatile / agile / regal,19-24 inches,40-75 pounds,14-17 years,"['versatile', 'agile', 'regal']",0
+foundation stock service,hanoverian scenthound,https://www.akc.org/dog-breeds/hanoverian-scenthound/,,independent / loyal / calm,19-21 inches,79-99 pounds,10-14 years,"['independent', 'loyal', 'calm']",0
+foundation stock service,hokkaido,https://www.akc.org/dog-breeds/hokkaido/,,dignified / alert / devoted,18-20 inches,44-66 pounds,12-15 years,"['dignified', 'alert', 'devoted']",4
+foundation stock service,hovawart,https://www.akc.org/dog-breeds/hovawart/,,alert / intelligent / faithful,23-28 inches,65-90 pounds,10-14 years,"['alert', 'intelligent', 'faithful']",5
+foundation stock service,jagdterrier,https://www.akc.org/dog-breeds/jagdterrier/,,intelligent / courageous / hardworking,13-16 inches,17-22 pounds,10-12 years,"['intelligent', 'courageous', 'hardworking']",5
+foundation stock service,japanese terrier,https://www.akc.org/dog-breeds/japanese-terrier/,,reserved / independent / curious,10-13 inches,,13-15 years,"['reserved', 'independent', 'curious']",2
+foundation stock service,jindo,https://www.akc.org/dog-breeds/jindo/,,alert / loyal / intelligent,,,14-15 years,"['alert', 'loyal', 'intelligent']",5
+foundation stock service,karelian bear dog,https://www.akc.org/dog-breeds/karelian-bear-dog/,,independent / loyal / courageous,5 inches,44-49 pounds,11-13 years,"['independent', 'loyal', 'courageous']",0
+foundation stock service,kishu ken,https://www.akc.org/dog-breeds/kishu-ken/,,alert / good-natured / confident,19-22 inches,30-60 pounds,12-15 years,"['alert', 'good-natured', 'confident']",5
+foundation stock service,kromfohrlander,https://www.akc.org/dog-breeds/kromfohrlander/,,intelligent / active / sensitive,15-18 inches,20-35 pounds,13-15 years,"['intelligent', 'active', 'sensitive']",5
+foundation stock service,lapponian herder,https://www.akc.org/dog-breeds/lapponian-herder/,,intelligent / friendly / energetic,18-20 inches,70 pounds,10-14 years,"['intelligent', 'friendly', 'energetic']",5
+foundation stock service,mountain cur,https://www.akc.org/dog-breeds/mountain-cur/,,intelligent / reserved with strangers / strong-willed,,30-60 pounds,10-13 years,"['intelligent', 'reserved with strangers', 'strong-willed']",5
+foundation stock service,perro de presa canario,https://www.akc.org/dog-breeds/perro-de-presa-canario/,,strong-willed / confident / calm,22-26 inches,84-110 pounds,9-11 years,"['strong-willed', 'confident', 'calm']",3
+foundation stock service,porcelaine,https://www.akc.org/dog-breeds/porcelaine/,,independent / energetic / powerful,22-23 inches,55-62 pounds,12-13 years,"['independent', 'energetic', 'powerful']",0
+foundation stock service,portuguese pointer,https://www.akc.org/dog-breeds/portuguese-pointer/,,energetic / affectionate / smart,5-22 inches,35-59 pounds,14 years,"['energetic', 'affectionate', 'smart']",0
+foundation stock service,portuguese sheepdog,https://www.akc.org/dog-breeds/portuguese-sheepdog/,,intelligent / devoted / lively,5 inches,5-59 pounds,12-13 years,"['intelligent', 'devoted', 'lively']",5
+foundation stock service,pudelpointer,https://www.akc.org/dog-breeds/pudelpointer/,,friendly / smart / willing to please,22-26 inches,45-70 pounds,14 years,"['friendly', 'smart', 'willing to please']",5
+foundation stock service,pyrenean mastiff,https://www.akc.org/dog-breeds/pyrenean-mastiff/,,gentle / brave / noble,30-31 inches,120-240 pounds,10-13 years,"['gentle', 'brave', 'noble']",0
+foundation stock service,rafeiro de alentejo,https://www.akc.org/dog-breeds/rafeiro-do-alentejo/,,,,,,[''],4
+foundation stock service,romanian carpathian shepherd,https://www.akc.org/dog-breeds/romanian-carpathian-shepherd/,,loyal / brave,,,12-14 years,"['loyal', 'brave']",4
+foundation stock service,romanian mioritic shepherd dog,https://www.akc.org/dog-breeds/romanian-mioritic-shepherd-dog/,,independent / loyal / confident guardian,27-29 inches,,12-14 years,"['independent', 'loyal', 'confident guardian']",0
+foundation stock service,schapendoes,https://www.akc.org/dog-breeds/schapendoes/,,friendly / watchful / lively,16-20 inches,26-55 pounds,12-15 years,"['friendly', 'watchful', 'lively']",5
+foundation stock service,segugio italiano,https://www.akc.org/dog-breeds/segugio-italiano/,,intelligent / friendly / eager to please,5 inches,,11-13 years,"['intelligent', 'friendly', 'eager to please']",2
+foundation stock service,shikoku,https://www.akc.org/dog-breeds/shikoku/,,alert / energetic / enthusiastic,17-22 inches,35-55 pounds,10-12 years,"['alert', 'energetic', 'enthusiastic']",0
+foundation stock service,slovakian wirehaired pointer,https://www.akc.org/dog-breeds/slovakian-wirehaired-pointer/,,,,,12-15 years,[''],4
+foundation stock service,slovensky cuvac,https://www.akc.org/dog-breeds/slovensky-cuvac/,,alert / courageous / faithful,5 inches,68-97 pounds,11-13 years,"['alert', 'courageous', 'faithful']",5
+foundation stock service,slovensky kopov,https://www.akc.org/dog-breeds/slovensky-kopov/,,alert / courageous / determined,16-20 inches,33-44 pounds,12-13 years,"['alert', 'courageous', 'determined']",5
+foundation stock service,spanish mastiff,https://www.akc.org/dog-breeds/spanish-mastiff/,,intelligent / affectionate / kind,28-35 inches,140-200 pounds,10-12 years,"['intelligent', 'affectionate', 'kind']",3
+foundation stock service,stabyhoun,https://www.akc.org/dog-breeds/stabyhoun/,,intelligent / loving / responsive,19-21 inches,40-60 pounds,13-15 years,"['intelligent', 'loving', 'responsive']",1
+foundation stock service,swedish lapphund,https://www.akc.org/dog-breeds/swedish-lapphund/,,intelligent / playful / lively,16-20 inches,30-45 pounds,12-14 years,"['intelligent', 'playful', 'lively']",3
+foundation stock service,taiwan dog,https://www.akc.org/dog-breeds/taiwan-dog/,,loyal / intelligent / versatile,17-20 inches,26-40 pounds,9-13 years,"['loyal', 'intelligent', 'versatile']",0
+foundation stock service,thai ridgeback,https://www.akc.org/dog-breeds/thai-ridgeback/,,Loyal / Alert / Intelligent,20-24 inches,35-75 pounds,14-15 years,"['loyal', 'alert', 'intelligent']",5
+foundation stock service,tornjak,https://www.akc.org/dog-breeds/tornjak/,,intelligent / friendly / courageous,23-28 inches,62-110 pounds,12-14 years,"['intelligent', 'friendly', 'courageous']",5
+foundation stock service,tosa,https://www.akc.org/dog-breeds/tosa/,,vigilant / fearless / patient,5 inches,100-200 pounds,10-12 years,"['vigilant', 'fearless', 'patient']",4
+foundation stock service,transylvanian hound,https://www.akc.org/dog-breeds/transylvanian-hound/,,good-natured / courageous / determined,22-26 inches,55 pounds,10-14 years,"['good-natured', 'courageous', 'determined']",5
+foundation stock service,treeing tennessee brindle,https://www.akc.org/dog-breeds/treeing-tennessee-brindle/,,alert / intelligent / friendly,16-24 inches,30-50 pounds,10-12 years,"['alert', 'intelligent', 'friendly']",5
+foundation stock service,volpino italiano,https://www.akc.org/dog-breeds/volpino-italiano/,,loyal / energetic / loving,5-12 inches,10-16 pounds,12-15 years,"['loyal', 'energetic', 'loving']",0
+foundation stock service,wetterhoun,https://www.akc.org/dog-breeds/wetterhoun/,,loyal / intelligent / good-natured,23 inches,50-75 pounds,13 years,"['loyal', 'intelligent', 'good-natured']",5
+foundation stock service,working kelpie,https://www.akc.org/dog-breeds/working-kelpie/,,alert / intelligent / eager,19-25 inches,28-60 pounds,12-15 years,"['alert', 'intelligent', 'eager']",5
+foundation stock service,yakutian laika,https://www.akc.org/dog-breeds/yakutian-laika/,,intelligent / active / affectionate,21-23 inches,40-55 pounds,10-12 years,"['intelligent', 'active', 'affectionate']",5

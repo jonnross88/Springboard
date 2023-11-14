@@ -1,0 +1,35 @@
+district,neighborhoods,district_number,population,adj_population
+District 1Altstadt,Rathaus,District 1,3081,3287
+District 1Altstadt,Hochschulen,District 1,695,741
+District 1Altstadt,Lindenhof,District 1,950,1013
+District 1Altstadt,City,District 1,846,902
+District 2,Wollishofen,District 2,15592,16637
+District 2,Leimbach,District 2,4867,5193
+District 2,Enge,District 2,8375,8936
+District 3Wiedikon,Alt-Wiedikon,District 3,14971,15974
+District 3Wiedikon,Friesenberg,District 3,10360,11054
+District 3Wiedikon,Sihlfeld,District 3,20554,21931
+District 4Aussersihl,Werd,District 4,3878,4137
+District 4Aussersihl,Langstrasse,District 4,10368,11063
+District 4Aussersihl,Hard,District 4,12715,13567
+District 5Industriequartier,Gewerbeschule,District 5,9690,10339
+District 5Industriequartier,Escher Wyss,District 5,2727,2909
+District 6,Unterstrass,District 6,19921,21256
+District 6,Oberstrass,District 6,9494,10130
+District 7,Fluntern,District 7,7325,7816
+District 7,Hottingen,District 7,10100,10777
+District 7,Hirslanden,District 7,6859,7318
+District 7,Witikon,District 7,9864,10525
+District 8Riesbach,Seefeld,District 8,4923,5253
+District 8Riesbach,Mühlebach,District 8,5577,5950
+District 8Riesbach,Weinegg,District 8,4843,5167
+District 9,Albisrieden,District 9,17226,18380
+District 9,Altstetten,District 9,28278,30173
+District 10,Höngg,District 10,20773,22165
+District 10,Wipkingen,District 10,15446,16481
+District 11,Affoltern,District 11,18733,19988
+District 11,Oerlikon,District 11,19585,20897
+District 11,Seebach,District 11,19879,21211
+District 12Schwamendingen,Saatlen,District 12,6727,7177
+District 12Schwamendingen,Schwamendingen Mitte,District 12,10322,11013
+District 12Schwamendingen,Hirzenbach,District 12,11265,12020

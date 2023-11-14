@@ -36,3 +36,7 @@ nxviz
 scrapy
 pyLDAvis
 gensim
+nltk
+geopandas
+geoviews
+spacy

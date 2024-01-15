@@ -19,8 +19,14 @@ import panel.widgets as pnw
 import seaborn as sns
 from wordcloud import WordCloud
 from PIL import ImageDraw, Image
+from joblib import Memory
 
 from translate_app import translate_list_to_dict
+
+
+# Set the cache directory
+cache_dir = "./zurich_cache_directory"
+memory = Memory(cache_dir, verbose=0)
 
 
 def convert_to_snake_case(item):
@@ -47,19 +53,40 @@ def sanitize_df_column_names(df):
     return df
 
 
-def get_gdf_from_zip_url(zip_url: str) -> Optional[dict[str, gpd.GeoDataFrame]]:
+def get_gdf_from_zip_url(zip_url: str) -> dict[str, gpd.GeoDataFrame]:
     """Function to get the geojson data from the zip url.
     In the zip url, the geojson files are in the data folder."""
     gpd_dict = {}
 
-    with urlopen(zip_url) as u:
-        zip_data = u.read()
-    with ZipMemoryFile(zip_data) as z:
-        geofiles = z.listdir("data")
-        for file in geofiles:
-            with z.open("data/" + file) as g:
-                gpd_dict[Path(file).stem] = gpd.GeoDataFrame.from_features(g, crs=g.crs)
-    return gpd_dict if gpd_dict else None
+    try:
+        with urlopen(zip_url) as u:
+            zip_data = u.read()
+        with ZipMemoryFile(zip_data) as z:
+            geofiles = z.listdir("data")
+            for file in geofiles:
+                with z.open("data/" + file) as g:
+                    gpd_dict[Path(file).stem] = gpd.GeoDataFrame.from_features(
+                        g, crs=g.crs
+                    )
+    except Exception as e:
+        raise Exception(f"Error reading geojson data: {e}")
+
+    return gpd_dict
+
+
+# def get_gdf_from_zip_url(zip_url: str) -> Optional[dict[str, gpd.GeoDataFrame]]:
+#     """Function to get the geojson data from the zip url.
+#     In the zip url, the geojson files are in the data folder."""
+#     gpd_dict = {}
+
+#     with urlopen(zip_url) as u:
+#         zip_data = u.read()
+#     with ZipMemoryFile(zip_data) as z:
+#         geofiles = z.listdir("data")
+#         for file in geofiles:
+#             with z.open("data/" + file) as g:
+#                 gpd_dict[Path(file).stem] = gpd.GeoDataFrame.from_features(g, crs=g.crs)
+#     return gpd_dict if gpd_dict else None
 
 
 def rename_keys(d, prefix="zurich_gdf_"):

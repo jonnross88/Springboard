@@ -1,4 +1,5 @@
 from collections.abc import Iterable
+from joblib import Memory
 
 # import asyncio
 
@@ -6,9 +7,14 @@ from collections.abc import Iterable
 from google.cloud import translate
 
 
+cache_dir = "./zurich_cache_directory"
+memory = Memory(cache_dir, verbose=0)
+
+
+@memory.cache
 def translate_list(
     list_of_strings: Iterable[str],
-    project_id: str = "mrprimetranslator",
+    project_id: str = "mrprime-349614",
     source_lang: str = "de",
     target_lang: str = "en-US",
 ) -> translate.TranslateTextResponse:
@@ -45,12 +51,17 @@ def translation_response_to_dict(
 
 def translate_list_to_dict(
     list_of_strings: Iterable[str],
-    project_id: str = "mrprimetranslator",
+    project_id: str = "mrprime-349614",
     source_lang: str = "de",
     target_lang: str = "en-US",
 ) -> dict[str, str]:
     """Translates a list of strings to a dictionary with the original text as key and the translated text as value."""
-    response = translate_list(list_of_strings, project_id, source_lang, target_lang)
+    response = translate_list(
+        list_of_strings,
+        project_id=project_id,
+        source_lang=source_lang,
+        target_lang=target_lang,
+    )
     # print(response)
     return translation_response_to_dict(list_of_strings, response)
 

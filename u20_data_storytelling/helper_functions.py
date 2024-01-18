@@ -74,21 +74,6 @@ def get_gdf_from_zip_url(zip_url: str) -> dict[str, gpd.GeoDataFrame]:
     return gpd_dict
 
 
-# def get_gdf_from_zip_url(zip_url: str) -> Optional[dict[str, gpd.GeoDataFrame]]:
-#     """Function to get the geojson data from the zip url.
-#     In the zip url, the geojson files are in the data folder."""
-#     gpd_dict = {}
-
-#     with urlopen(zip_url) as u:
-#         zip_data = u.read()
-#     with ZipMemoryFile(zip_data) as z:
-#         geofiles = z.listdir("data")
-#         for file in geofiles:
-#             with z.open("data/" + file) as g:
-#                 gpd_dict[Path(file).stem] = gpd.GeoDataFrame.from_features(g, crs=g.crs)
-#     return gpd_dict if gpd_dict else None
-
-
 def rename_keys(d, prefix="zurich_gdf_"):
     """Rename the keys of a dictionary with a prefix."""
     return {f"{prefix}{i}": v for i, (k, v) in enumerate(d.items())}
@@ -151,3 +136,54 @@ def apply_fuzzy_matching_to_breed_column(
             breed, fci_df, scoring_functions, scoring_threshold=scoring_threshold
         )
     )
+
+
+def get_line_plots(data, x, group_by, highlight_list=None, **kwargs):
+    """
+    Generates an overlaid plot from data, highlighting specified groups with distinct colors.
+    """
+    if highlight_list is None:
+        highlight_list = []
+    # Default highlight colors
+    default_highlight_colors = [
+        "#DC143C",  # Crimson Red
+        "#4169E1",  # Royal Blue
+        "#50C878",  # Emerald Green
+        "#DAA520",  # Goldenrod
+    ]
+
+    plots = []
+    colors = kwargs.get("colors", ["gray" if not highlight_list else "lightgray"])
+    highlight_colors = kwargs.get("highlight_colors", default_highlight_colors)
+
+    # Extend the highlight_colors list if there are more highlighted groups than colors
+    if len(highlight_list) > len(highlight_colors):
+        highlight_colors = highlight_colors * (
+            len(highlight_list) // len(highlight_colors) + 1
+        )
+
+    for i, group_value in enumerate(data[group_by].unique()):
+        # Filter the DataFrame for the specified value
+        filtered_data = data.query(f"{group_by} == @group_value")
+
+        # Determine the color for the plot
+        plot_color = (
+            highlight_colors[highlight_list.index(group_value)]
+            if group_value in highlight_list
+            else colors[i % len(colors)]
+        )
+
+        # Create a line plot for the specified value
+        line_plot = filtered_data.hvplot(color=plot_color, x=x, by=group_by, alpha=0.9)
+
+        # Create a scatter plot for the specified value
+        scatter_plot = filtered_data.hvplot.scatter(color=plot_color, x=x, by=group_by)
+
+        # Combine the line plot and scatter plot
+        plot = line_plot * scatter_plot
+        plots.append(plot)
+
+    # Overlay the plots
+    combined_plot = hv.Overlay(plots)
+
+    return combined_plot

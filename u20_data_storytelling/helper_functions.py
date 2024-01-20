@@ -29,6 +29,20 @@ cache_dir = "./zurich_cache_directory"
 memory = Memory(cache_dir, verbose=0)
 
 
+# Create a player widget
+yearly_player = pnw.Player(
+    name="Yearly Player",
+    start=2015,
+    end=2022,
+    value=2020,
+    step=1,
+    loop_policy="loop",
+    interval=3000,
+)
+# Create a slider for the roster
+roster_slider = pnw.IntSlider(value=2020, start=2015, end=2022)
+
+
 def convert_to_snake_case(item):
     """Function to convert a string to snake case"""
     # Add _ before uppercase in camelCase
@@ -187,3 +201,117 @@ def get_line_plots(data, x, group_by, highlight_list=None, **kwargs):
     combined_plot = hv.Overlay(plots)
 
     return combined_plot
+
+
+def get_line_plots(data, x, group_by, highlight_list=None, **kwargs):
+    """
+    Generates an overlaid plot from data, highlighting specified groups with distinct colors.
+    """
+    if highlight_list is None:
+        highlight_list = []
+    # Default highlight colors
+    default_highlight_colors = [
+        "#DC143C",  # Crimson Red
+        "#4169E1",  # Royal Blue
+        "#50C878",  # Emerald Green
+        "#DAA520",  # Goldenrod
+    ]
+
+    plots = []
+    colors = kwargs.get("colors", ["gray" if not highlight_list else "lightgray"])
+    highlight_colors = kwargs.get("highlight_colors", default_highlight_colors)
+
+    # Extend the highlight_colors list if there are more highlighted groups than colors
+    if len(highlight_list) > len(highlight_colors):
+        highlight_colors = highlight_colors * (
+            len(highlight_list) // len(highlight_colors) + 1
+        )
+
+    for i, group_value in enumerate(data[group_by].unique()):
+        # Filter the DataFrame for the specified value
+        filtered_data = data.query(f"{group_by} == @group_value")
+
+        # Determine the color for the plot
+        plot_color = (
+            highlight_colors[highlight_list.index(group_value)]
+            if group_value in highlight_list
+            else colors[i % len(colors)]
+        )
+
+        # Create a line plot for the specified value
+        line_plot = filtered_data.hvplot(color=plot_color, x=x, by=group_by, alpha=0.9)
+
+        # Create a scatter plot for the specified value
+        scatter_plot = filtered_data.hvplot.scatter(color=plot_color, x=x, by=group_by)
+
+        # Combine the line plot and scatter plot
+        plot = line_plot * scatter_plot
+        plots.append(plot)
+
+    # Overlay the plots
+    combined_plot = hv.Overlay(plots)
+
+    return combined_plot
+
+
+@pn.depends(yearly_player.param.value)
+def get_dog_age_butterfly_plot(roster):
+    """
+    Decorated with @pn.depends, this function generates a butterfly plot of male and female dog age distributions for a given roster year.
+
+    Parameters:
+    roster (int): The roster year to filter the dog data by.
+
+    Returns:
+    hvplot: A butterfly plot of male and female dog age distributions for the given roster year.
+    """
+    # Define bar plot options
+    bar_opts = dict(
+        invert=True,
+        height=500,
+        width=400,
+        rot=90,
+        xlim=(0, 24),
+        xlabel="",
+        yaxis="bare",
+        ylabel="Count",
+    )
+    # Filter the DataFrame for the roster
+    filtered_dog_data = pd.read_csv("../data/processed_dog_data.csv")
+    roster_dog_data = filtered_dog_data.query(f"roster=={roster}")
+    # Filter for the is_male_dog
+    male_roster_dog_data = roster_dog_data.loc[roster_dog_data["is_male_dog"]]
+    male_roster_dog_data = (
+        male_roster_dog_data.groupby(["dog_age"])
+        .size()
+        .reset_index(name="age_frequency")
+    )
+    male_roster_dog_data = male_roster_dog_data.set_index("dog_age")
+    total_male = male_roster_dog_data["age_frequency"].sum()
+    male_plot = male_roster_dog_data.hvplot.bar(
+        **bar_opts,
+        ylim=(0, 620),
+        title=f"Male Dog Age Distribution || {roster} || {total_male} Canines",
+        color="skyblue",
+    ).opts(active_tools=["box_zoom"])
+
+    female_roster_dog_data = roster_dog_data[~roster_dog_data["is_male_dog"]]
+    female_roster_dog_data = (
+        female_roster_dog_data.groupby(["dog_age"])
+        .size()
+        .reset_index(name="age_frequency")
+    )
+    female_roster_dog_data = female_roster_dog_data.set_index("dog_age")
+    total_female = female_roster_dog_data["age_frequency"].sum()
+    female_roster_dog_data["age_frequency"] = (
+        -1 * female_roster_dog_data["age_frequency"]
+    )
+    female_plot = female_roster_dog_data.hvplot.bar(
+        **bar_opts,
+        ylim=(-620, 0),
+        title=f"Female Dog Age Distribution || {roster} || {total_female} Canines",
+        color="pink",
+    ).opts(active_tools=["box_zoom"])
+    return (female_plot + male_plot).opts(
+        shared_axes=False,
+    )
